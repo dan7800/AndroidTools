@@ -1,2 +1,1 @@
-Folder purpose:
-Where the .sqlite database resides.
+This is where the .sqlite database resides.
