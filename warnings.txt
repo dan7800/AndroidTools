@@ -1,0 +1,186 @@
+M B Nm: The class name com.example.hussienalrubaye.webview.R$drawable doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$drawable doesn't start with an upper case letter  In <Unknown>
+M D ICAST: Integral division result cast to double or float in android.support.v4.widget.MaterialProgressDrawable$Ring.drawTriangle(Canvas, float, float, Rect)  In <Unknown>
+M D ICAST: Integral division result cast to double or float in android.support.v4.widget.MaterialProgressDrawable$Ring.draw(Canvas, Rect)  In <Unknown>
+M D ICAST: Integral division result cast to double or float in android.support.v4.util.TimeUtils.formatDurationLocked(long, int)  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$anim doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$array doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$string doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$integer doesn't start with an upper case letter  In <Unknown>
+M B Nm: The method name com.example.hussienalrubaye.webview.Operations.ConvertInputToString(InputStream) doesn't start with a lower case letter  In <Unknown>
+H I Dm: Found reliance on default encoding in com.example.hussienalrubaye.webview.Operations.ConvertInputToString(InputStream): new java.io.InputStreamReader(InputStream)  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$integer doesn't start with an upper case letter  In <Unknown>
+M B Nm: The field name com.example.hussienalrubaye.webview.ResourceItem.Name doesn't start with a lower case letter  In <Unknown>
+M D ICAST: Integral division result cast to double or float in new android.support.v4.widget.CircleImageView$OvalShadow(CircleImageView, int, int)  In <Unknown>
+M D ICAST: Integral division result cast to double or float in android.support.v4.widget.CircleImageView$OvalShadow.draw(Canvas, Paint)  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$styleable doesn't start with an upper case letter  In <Unknown>
+M V EI: android.support.v4.app.RemoteInput.getChoices() may expose internal representation by returning RemoteInput.mChoices  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$style doesn't start with an upper case letter  In <Unknown>
+M V EI: android.support.v4.app.NotificationCompat$CarExtender$UnreadConversation.getParticipants() may expose internal representation by returning NotificationCompat$CarExtender$UnreadConversation.mParticipants  In <Unknown>
+M V EI: android.support.v4.app.NotificationCompat$CarExtender$UnreadConversation.getMessages() may expose internal representation by returning NotificationCompat$CarExtender$UnreadConversation.mMessages  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$anim doesn't start with an upper case letter  In <Unknown>
+M D IM: Computation of average could overflow in android.support.v4.view.animation.PathInterpolatorDonut.getInterpolation(float)  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$mipmap doesn't start with an upper case letter  In <Unknown>
+M B Nm: The field name com.example.hussienalrubaye.webview.SubResourceItems.ChannelImage doesn't start with a lower case letter  In <Unknown>
+M B Nm: The field name com.example.hussienalrubaye.webview.SubResourceItems.Name doesn't start with a lower case letter  In <Unknown>
+M B RR: android.support.multidex.ZipUtil.findCentralDirectory(RandomAccessFile) ignores result of java.io.RandomAccessFile.skipBytes(int)  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$styleable doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$color doesn't start with an upper case letter  In <Unknown>
+M V EI2: android.support.v4.app.RemoteInput$Builder.setChoices(CharSequence[]) may expose internal representation by storing an externally mutable object into RemoteInput$Builder.mChoices  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$dimen doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$layout doesn't start with an upper case letter  In <Unknown>
+M B Se: android.support.v4.view.ViewPager$ViewPositionComparator implements Comparator but not Serializable  In <Unknown>
+M V EI: android.support.v4.app.NotificationCompat$Action.getRemoteInputs() may expose internal representation by returning NotificationCompat$Action.mRemoteInputs  In <Unknown>
+H D FE: Test for floating point equality in android.support.v4.graphics.ColorUtils.RGBToHSL(int, int, int, float[])  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$attr doesn't start with an upper case letter  In <Unknown>
+M B It: android.support.v4.util.MapCollections$MapIterator.next() can't throw NoSuchElementException  In <Unknown>
+M B PZ: android.support.v4.util.MapCollections$MapIterator is both an Iterator and a Map.Entry   In <Unknown>
+M B RV: Exceptional return value of java.io.File.delete() ignored in android.support.v4.util.AtomicFile.delete()  In <Unknown>
+M B RV: Exceptional return value of java.io.File.delete() ignored in android.support.v4.util.AtomicFile.failWrite(FileOutputStream)  In <Unknown>
+M B RV: Exceptional return value of java.io.File.renameTo(File) ignored in android.support.v4.util.AtomicFile.failWrite(FileOutputStream)  In <Unknown>
+M B RV: Exceptional return value of java.io.File.renameTo(File) ignored in android.support.v4.util.AtomicFile.openRead()  In <Unknown>
+M B RV: Exceptional return value of java.io.File.delete() ignored in android.support.v4.util.AtomicFile.openRead()  In <Unknown>
+M B RV: Exceptional return value of java.io.File.delete() ignored in android.support.v4.util.AtomicFile.startWrite()  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$bool doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$layout doesn't start with an upper case letter  In <Unknown>
+M B RV: Exceptional return value of java.io.File.delete() ignored in android.support.multidex.MultiDexExtractor.extract(ZipFile, ZipEntry, File, String)  In <Unknown>
+M B RV: Exceptional return value of java.io.File.mkdir() ignored in android.support.multidex.MultiDexExtractor.mkdirChecked(File)  In <Unknown>
+H D FE: Test for floating point equality in android.support.v4.graphics.drawable.RoundedBitmapDrawable.setCornerRadius(float)  In <Unknown>
+M D ICAST: Integral division result cast to double or float in android.support.v4.graphics.drawable.RoundedBitmapDrawable.updateCircularCornerRadius()  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$menu doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$id doesn't start with an upper case letter  In <Unknown>
+H D IA: Potentially ambiguous invocation of either an outer or inherited method java.util.concurrent.FutureTask.get() in android.support.v4.content.ModernAsyncTask$3.done()  In <Unknown>
+M D Eq: android.support.v4.util.ArrayMap doesn't override SimpleArrayMap.equals(Object)  At <Unknown>:[line 1]
+M B Nm: The class name com.example.hussienalrubaye.webview.R$bool doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$id doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$attr doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.welcomeActivity doesn't start with an upper case letter  In <Unknown>
+M M LI: Incorrect lazy initialization and update of static field android.support.v4.view.ViewCompatEclairMr1.sChildrenDrawingOrderMethod in android.support.v4.view.ViewCompatEclairMr1.setChildrenDrawingOrderEnabled(ViewGroup, boolean)  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$style doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$dimen doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name android.support.v7.appcompat.R$string doesn't start with an upper case letter  In <Unknown>
+M B Nm: The class name com.example.hussienalrubaye.webview.R$color doesn't start with an upper case letter  In <Unknown>
+M D SF: Switch statement found in android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase.onTouchEvent(MotionEvent) where one case falls through to the next case  In <Unknown>
+M C NP: ? could be null and is guaranteed to be dereferenced in android.support.v4.media.session.PlaybackStateCompat.getPlaybackState()  In <Unknown>
+M C NP: Null passed for non-null parameter of new PlaybackStateCompat(int, long, long, float, long, CharSequence, long, List, long, Bundle) in android.support.v4.media.session.PlaybackStateCompat.fromPlaybackState(Object)  In <Unknown>
+H D DLS: Dead store to $L1 in com.example.hussienalrubaye.webview.FileLoad$MyAsyncTask.doInBackground(String[])  In <Unknown>
+H C IP: The parameter $L1 to com.example.hussienalrubaye.webview.FileLoad$MyAsyncTask.onPostExecute(String) is dead upon entry but overwritten  In <Unknown>
+H D DLS: Dead store to $L1 in com.example.hussienalrubaye.webview.FileLoad$MyAsyncTask.onPostExecute(String)  In <Unknown>
+H C IL: There is an apparent infinite loop in android.support.v7.internal.view.menu.MenuBuilder.findItemsWithShortcutForKey(List, int, KeyEvent)  In <Unknown>
+M D ST: Write to static field com.example.hussienalrubaye.webview.GlobalClass.LastNewsID from instance method com.example.hussienalrubaye.webview.FileLoad.LoadData()  In <Unknown>
+M D ST: Write to static field com.example.hussienalrubaye.webview.GlobalClass.UserID from instance method com.example.hussienalrubaye.webview.FileLoad.LoadData()  In <Unknown>
+M B Nm: The method name com.example.hussienalrubaye.webview.FileLoad.LoadData() doesn't start with a lower case letter  In <Unknown>
+M B Nm: The method name com.example.hussienalrubaye.webview.FileLoad.SaveData() doesn't start with a lower case letter  In <Unknown>
+H I Dm: Found reliance on default encoding in com.example.hussienalrubaye.webview.FileLoad.SaveData(): String.getBytes()  In <Unknown>
+M D SF: Switch statement found in android.support.v4.widget.AutoScrollHelper.onTouch(View, MotionEvent) where one case falls through to the next case  In <Unknown>
+M D SF: Switch statement found in android.support.v7.widget.ListPopupWindow$DropDownListView.onForwardedEvent(MotionEvent, int) where one case falls through to the next case  In <Unknown>
+M P SBSC: android.support.v4.app.FragmentActivity.dumpViewHierarchy(String, PrintWriter, View) concatenates strings using + in a loop  In <Unknown>
+M C UR: Uninitialized read of mTempAdapter in new android.support.v7.widget.AppCompatSpinner(Context, AttributeSet, int, int, Resources$Theme)  In <Unknown>
+M D REC: Exception is caught when Exception is not thrown in android.support.v7.internal.app.AppCompatViewInflater.createView(Context, String, String)  In <Unknown>
+M D REC: Exception is caught when Exception is not thrown in android.support.v7.internal.app.AppCompatViewInflater.createViewFromTag(Context, String, AttributeSet)  In <Unknown>
+M D SF: Switch statement found in android.support.v7.widget.Toolbar.getChildHorizontalGravity(int) where one case falls through to the next case  In <Unknown>
+M D SF: Switch statement found in android.support.v7.widget.Toolbar.getChildVerticalGravity(int) where one case falls through to the next case  In <Unknown>
+H D DLS: Dead store to $L2 in android.support.v7.widget.Toolbar.onLayout(boolean, int, int, int, int)  In <Unknown>
+M D SF: Switch statement found in android.support.v7.internal.widget.ToolbarWidgetWrapper.setNavigationMode(int) where one case falls through to the next case  In <Unknown>
+H C IP: The parameter $L1 to com.example.hussienalrubaye.webview.SubResources$MyAsyncTask.onPostExecute(String) is dead upon entry but overwritten  In <Unknown>
+H D DLS: Dead store to $L1 in com.example.hussienalrubaye.webview.SubResources$MyAsyncTask.onPostExecute(String)  In <Unknown>
+H D DLS: Dead store to $L1 in com.example.hussienalrubaye.webview.ResourcesName$MyAsyncTask.doInBackground(String[])  In <Unknown>
+H C IP: The parameter $L1 to com.example.hussienalrubaye.webview.ResourcesName$MyAsyncTask.onPostExecute(String) is dead upon entry but overwritten  In <Unknown>
+H D DLS: Dead store to $L1 in com.example.hussienalrubaye.webview.ResourcesName$MyAsyncTask.onPostExecute(String)  In <Unknown>
+H C IP: The parameter $L1 to android.support.v4.print.PrintHelperKitkat$2$1.doInBackground(Uri[]) is dead upon entry but overwritten  In <Unknown>
+H D DLS: Dead store to $L1 in android.support.v4.print.PrintHelperKitkat$2$1.doInBackground(Uri[])  In <Unknown>
+M D SF: Switch statement found in android.support.v4.app.DialogFragment.setupDialog(Dialog, int) where one case falls through to the next case  In <Unknown>
+H B Nm: The class name android.support.v7.app.NotificationCompat shadows the simple name of the superclass android.support.v4.app.NotificationCompat  In <Unknown>
+M C NP: Possible null pointer dereference of ? in android.support.v4.view.ViewPager.onMeasure(int, int)  In <Unknown>
+M C NP: Possible null pointer dereference of ViewPager.mSetChildrenDrawingOrderEnabled in android.support.v4.view.ViewPager.setChildrenDrawingOrderEnabledCompat(boolean) on exception path  In <Unknown>
+M D SF: Switch statement found in android.support.v4.view.ViewPager.onTouchEvent(MotionEvent) where one case falls through to the next case  In <Unknown>
+M D ST: Write to static field com.example.hussienalrubaye.webview.GlobalClass.Deviceuid from instance method com.example.hussienalrubaye.webview.MainActivity.onCreate(Bundle)  In <Unknown>
+H B CN: android.support.v4.app.NotificationCompat$Action$WearableExtender defines clone() but doesn't implement Cloneable  In <Unknown>
+M V EI2: new android.support.v4.widget.SimpleCursorAdapter(Context, int, Cursor, String[], int[]) may expose internal representation by storing an externally mutable object into SimpleCursorAdapter.mTo  In <Unknown>
+M V EI2: new android.support.v4.widget.SimpleCursorAdapter(Context, int, Cursor, String[], int[]) may expose internal representation by storing an externally mutable object into SimpleCursorAdapter.mOriginalFrom  In <Unknown>
+M V EI2: new android.support.v4.widget.SimpleCursorAdapter(Context, int, Cursor, String[], int[], int) may expose internal representation by storing an externally mutable object into SimpleCursorAdapter.mOriginalFrom  In <Unknown>
+M V EI2: android.support.v4.widget.SimpleCursorAdapter.changeCursorAndColumns(Cursor, String[], int[]) may expose internal representation by storing an externally mutable object into SimpleCursorAdapter.mTo  In <Unknown>
+M V EI2: android.support.v4.widget.SimpleCursorAdapter.changeCursorAndColumns(Cursor, String[], int[]) may expose internal representation by storing an externally mutable object into SimpleCursorAdapter.mOriginalFrom  In <Unknown>
+M V EI2: new android.support.v4.widget.SimpleCursorAdapter(Context, int, Cursor, String[], int[], int) may expose internal representation by storing an externally mutable object into SimpleCursorAdapter.mTo  In <Unknown>
+M D SF: Switch statement found in android.support.v7.app.AppCompatDialogFragment.setupDialog(Dialog, int) where one case falls through to the next case  In <Unknown>
+H B CN: android.support.v4.app.NotificationCompat$WearableExtender defines clone() but doesn't implement Cloneable  In <Unknown>
+H D UC: Useless condition: it's known that arg0 == true at this point  In <Unknown>
+M D ICAST: Integral division result cast to double or float in android.support.v4.widget.SwipeProgressBar.draw(Canvas)  In <Unknown>
+M D SF: Switch statement found in android.support.v4.widget.SlidingPaneLayout.onInterceptTouchEvent(MotionEvent) where one case falls through to the next case  In <Unknown>
+H D NS: Potentially dangerous use of non-short-circuit logic in android.support.v4.widget.DrawerLayout.computeScroll()  In <Unknown>
+H D FE: Test for floating point equality in android.support.v4.widget.DrawerLayout.onLayout(boolean, int, int, int, int)  In <Unknown>
+M D BC: Unchecked/unconfirmed cast from android.support.v7.internal.view.menu.MenuBuilder to android.support.v7.internal.view.menu.SubMenuBuilder in android.support.v7.widget.ActionMenuPresenter$PopupPresenterCallback.onOpenSubMenu(MenuBuilder)  In <Unknown>
+M V EI2: new android.support.v4.content.CursorLoader(Context, Uri, String[], String, String[], String) may expose internal representation by storing an externally mutable object into CursorLoader.mProjection  In <Unknown>
+M V EI2: new android.support.v4.content.CursorLoader(Context, Uri, String[], String, String[], String) may expose internal representation by storing an externally mutable object into CursorLoader.mSelectionArgs  In <Unknown>
+M V EI2: android.support.v4.content.CursorLoader.setProjection(String[]) may expose internal representation by storing an externally mutable object into CursorLoader.mProjection  In <Unknown>
+M V EI2: android.support.v4.content.CursorLoader.setSelectionArgs(String[]) may expose internal representation by storing an externally mutable object into CursorLoader.mSelectionArgs  In <Unknown>
+M V EI: android.support.v4.content.CursorLoader.getSelectionArgs() may expose internal representation by returning CursorLoader.mSelectionArgs  In <Unknown>
+M V EI: android.support.v4.content.CursorLoader.getProjection() may expose internal representation by returning CursorLoader.mProjection  In <Unknown>
+M D RV: Return value of new NewMessageNotification() ignored, but method has no side effect  In <Unknown>
+H B Nm: The class name android.support.v7.app.NotificationCompat$Builder shadows the simple name of the superclass android.support.v4.app.NotificationCompat$Builder  In <Unknown>
+M D DMI: Hard coded reference to an absolute pathname in android.support.v4.content.FileProvider.<static initializer for FileProvider>()  In <Unknown>
+M D UwF: Unwritten public or protected field: android.support.v7.app.AlertController$AlertParams.mOnPrepareListViewListener  In <Unknown>
+M C UwF: Unwritten field: android.support.v7.internal.view.menu.MenuItemImpl.sDeleteShortcutLabel  In <Unknown>
+M C UwF: Unwritten field: android.support.v7.internal.view.menu.MenuItemImpl.sEnterShortcutLabel  In <Unknown>
+M C UwF: Unwritten field: android.support.v7.internal.view.menu.MenuItemImpl.sPrependShortcutLabel  In <Unknown>
+M C UwF: Unwritten field: android.support.v7.internal.view.menu.MenuItemImpl.sSpaceShortcutLabel  In <Unknown>
+M C UwF: Field only ever set to null: android.support.v7.widget.ListPopupWindow$DropDownListView.mClickAnimation  In <Unknown>
+M P SIC: Should android.support.v7.widget.ActionMenuView$ActionMenuPresenterCallback be a _static_ inner class?  In <Unknown>
+M P UuF: Unused field: android.support.v4.app.LoaderManagerImpl.mRetainingStarted  In <Unknown>
+M P UuF: Unused field: android.support.v7.internal.view.menu.MenuBuilder.mFrozenViewStates  In <Unknown>
+M P SIC: Should android.support.v4.app.BackStackRecord$TransitionState be a _static_ inner class?  In <Unknown>
+M P UrF: Unread field: android.support.v7.app.TwilightManager$TwilightState.tomorrowSunrise  In <Unknown>
+M P UuF: Unused field: android.support.v4.app.FragmentManagerImpl.mController  In <Unknown>
+M P SIC: Should android.support.v7.internal.widget.ActivityChooserModel$ActivityResolveInfo be a _static_ inner class?  In <Unknown>
+M P UrF: Unread field: android.support.v7.app.TwilightManager$TwilightState.yesterdaySunset  In <Unknown>
+M P UrF: Unread field: android.support.v7.widget.ListPopupWindow.mLayoutDirection  In <Unknown>
+M P SIC: Should com.example.hussienalrubaye.webview.MainActivity$MyBrowser be a _static_ inner class?  In <Unknown>
+M P SIC: Should android.support.v4.widget.DrawerLayout$ChildAccessibilityDelegate be a _static_ inner class?  In <Unknown>
+M P UrF: Unread field: android.support.v7.app.TwilightManager$TwilightState.todaySunrise  In <Unknown>
+M P UrF: Unread field: android.support.v7.app.TwilightManager$TwilightState.todaySunset  In <Unknown>
+M D UrF: Unread public/protected field: android.support.v7.internal.view.menu.BaseMenuPresenter.mInflater  In <Unknown>
+M P UrF: Unread field: android.support.v7.widget.ActionMenuPresenter$ActionButtonSubmenu.mSubMenu  In <Unknown>
+M P UrF: Unread field: android.support.v4.view.ViewPropertyAnimatorCompat$ICSViewPropertyAnimatorCompatImpl.mLayerMap  In <Unknown>
+M D UrF: Unread public/protected field: android.support.v7.app.AlertController$AlertParams.mRecycleOnMeasure  In <Unknown>
+M D UrF: Unread public/protected field: android.support.v7.app.AlertController$AlertParams.mForceInverseBackground  In <Unknown>
+M P SIC: Should android.support.v7.internal.widget.ActivityChooserModel$DefaultSorter be a _static_ inner class?  In <Unknown>
+M D UrF: Unread public/protected field: com.example.hussienalrubaye.webview.SubResourceItems.ChannelImage  In <Unknown>
+M P UrF: Unread field: android.support.v7.app.AppCompatDelegateImplV7$PanelFeatureState.wasLastOpen  In <Unknown>
+M P UrF: Unread field: android.support.v4.media.session.MediaSessionCompat$MediaSessionImplApi21.mMediaButtonIntent  In <Unknown>
+M P UrF: Unread field: android.support.v4.media.session.MediaControllerCompat$MediaControllerImplBase.mToken  In <Unknown>
+M P UrF: Unread field: android.support.v7.internal.view.menu.ActionMenuItem.mIconResId  In <Unknown>
+M P UrF: Unread field: android.support.v7.internal.view.menu.ListMenuItemView.mMenuType  In <Unknown>
+M V MS: com.example.hussienalrubaye.webview.GlobalClass.Deviceuid should be package protected  In <Unknown>
+M V MS: com.example.hussienalrubaye.webview.GlobalClass.LastNewsID should be package protected  In <Unknown>
+M V MS: com.example.hussienalrubaye.webview.GlobalClass.ServiceIsRun should be package protected  In <Unknown>
+M V MS: com.example.hussienalrubaye.webview.GlobalClass.UserID should be package protected  In <Unknown>
+H V MS: com.example.hussienalrubaye.webview.GlobalClass.WebURL isn't final but should be  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.ActionBar is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.ActionBarLayout is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.ActionMenuItemView is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.ActionMode is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.ActivityChooserView is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.AlertDialog is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.CompoundButton is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.DrawerArrowToggle is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.LinearLayoutCompat is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.LinearLayoutCompat_Layout is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.ListPopupWindow is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.MenuGroup is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.MenuItem is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.MenuView is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.PopupWindow is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.SearchView is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.Spinner is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.SwitchCompat is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.TextAppearance is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.Theme is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.Toolbar is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.View is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.ViewBackgroundHelper is a mutable array  In <Unknown>
+M V MS: android.support.v7.appcompat.R$styleable.ViewStubCompat is a mutable array  In <Unknown>
+M M IS: Inconsistent synchronization of android.support.v4.app.FragmentManagerImpl.mTmpActions; locked 66% of time  In <Unknown>
+M M IS: Inconsistent synchronization of android.support.v7.widget.AppCompatRatingBar.mSampleTile; locked 40% of time  In <Unknown>
+M M IS: Inconsistent synchronization of android.support.v4.content.CursorLoader.mCancellationSignal; locked 83% of time  In <Unknown>
+M M IS: Inconsistent synchronization of android.support.v4.app.FragmentManagerImpl.mPendingActions; locked 69% of time  In <Unknown>
+M M IS: Inconsistent synchronization of android.support.v4.util.LruCache.maxSize; locked 50% of time  In <Unknown>

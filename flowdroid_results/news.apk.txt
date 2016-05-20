@@ -1,0 +1,3137 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/Users/armandoperez/Desktop/BashScript/flowdroid/soot-trunk.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/Users/armandoperez/Desktop/BashScript/flowdroid/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
+[main] INFO soot.jimple.infoflow.taintWrappers.EasyTaintWrapper - Loaded wrapper entries for 66 classes and 5 exclusions.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - ARSC file parsing took 0.041313078 seconds
+warning: Android API version '23' not available, using minApkVersion '15' instead
+Warning: java.lang.Throwable is a phantom class!
+Warning: java.lang.Void is a phantom class!
+Warning: java.lang.Float is a phantom class!
+Warning: java.lang.Double is a phantom class!
+Warning: java.lang.AssertionError is a phantom class!
+Warning: java.lang.Integer is a phantom class!
+Warning: java.lang.NullPointerException is a phantom class!
+Warning: java.lang.Character is a phantom class!
+Warning: java.lang.Long is a phantom class!
+Warning: java.lang.Short is a phantom class!
+Warning: java.lang.StringBuffer is a phantom class!
+Warning: java.lang.Boolean is a phantom class!
+Warning: java.lang.Class is a phantom class!
+Warning: java.lang.Byte is a phantom class!
+Warning: java.lang.NoClassDefFoundError is a phantom class!
+Warning: java.lang.IndexOutOfBoundsException is a phantom class!
+Warning: java.lang.StackOverflowError is a phantom class!
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.Error is a phantom class!
+Warning: java.lang.AbstractMethodError is a phantom class!
+Warning: java.lang.ClassCastException is a phantom class!
+Warning: java.lang.Runnable is a phantom class!
+Warning: java.lang.VerifyError is a phantom class!
+Warning: java.lang.NoSuchFieldError is a phantom class!
+Warning: java.lang.IllegalMonitorStateException is a phantom class!
+Warning: java.lang.Thread is a phantom class!
+Warning: java.lang.UnknownError is a phantom class!
+Warning: java.lang.InternalError is a phantom class!
+Warning: java.lang.ArithmeticException is a phantom class!
+Warning: java.lang.String is a phantom class!
+Warning: java.lang.NegativeArraySizeException is a phantom class!
+Warning: java.lang.ClassCircularityError is a phantom class!
+Warning: java.lang.Cloneable is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: java.lang.LinkageError is a phantom class!
+Warning: java.lang.IncompatibleClassChangeError is a phantom class!
+Warning: java.lang.NoSuchMethodError is a phantom class!
+Warning: java.lang.RuntimeException is a phantom class!
+Warning: java.lang.ArrayIndexOutOfBoundsException is a phantom class!
+Warning: java.lang.ThreadDeath is a phantom class!
+Warning: java.io.Serializable is a phantom class!
+Warning: java.lang.InstantiationError is a phantom class!
+Warning: java.lang.IllegalAccessError is a phantom class!
+Warning: java.lang.Object is a phantom class!
+Warning: java.lang.ClassNotFoundException is a phantom class!
+Warning: java.lang.ClassFormatError is a phantom class!
+Warning: java.lang.UnsatisfiedLinkError is a phantom class!
+Warning: java.lang.ArrayStoreException is a phantom class!
+Warning: java.lang.ExceptionInInitializerError is a phantom class!
+Warning: java.lang.OutOfMemoryError is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParser is a phantom class!
+Warning: java.io.IOException is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserException is a phantom class!
+Warning: java.lang.StringBuilder is a phantom class!
+Warning: java.lang.ClassLoader is a phantom class!
+Warning: java.lang.CharSequence is a phantom class!
+Warning: java.lang.Deprecated is a phantom class!
+Warning: java.io.FileOutputStream is a phantom class!
+Warning: java.io.FileInputStream is a phantom class!
+Warning: java.io.File is a phantom class!
+Warning: java.io.FileNotFoundException is a phantom class!
+Warning: java.io.InputStream is a phantom class!
+Warning: java.util.List is a phantom class!
+Warning: java.lang.IllegalStateException is a phantom class!
+Warning: java.util.Arrays is a phantom class!
+Warning: java.lang.System is a phantom class!
+Warning: java.io.ObjectInputStream is a phantom class!
+Warning: java.lang.NoSuchFieldException is a phantom class!
+Warning: java.io.ByteArrayInputStream is a phantom class!
+Warning: java.util.Map is a phantom class!
+Warning: java.lang.SecurityException is a phantom class!
+Warning: java.lang.IllegalAccessException is a phantom class!
+Warning: java.util.Set is a phantom class!
+Warning: java.lang.Exception is a phantom class!
+Warning: java.io.ByteArrayOutputStream is a phantom class!
+Warning: java.util.HashMap is a phantom class!
+Warning: java.util.ArrayList is a phantom class!
+Warning: java.io.ObjectOutputStream is a phantom class!
+Warning: java.io.OutputStream is a phantom class!
+Warning: java.util.Map$Entry is a phantom class!
+Warning: java.util.Iterator is a phantom class!
+Warning: java.lang.IllegalArgumentException is a phantom class!
+Warning: java.lang.reflect.Field is a phantom class!
+Warning: java.io.FileDescriptor is a phantom class!
+Warning: java.lang.UnsupportedOperationException is a phantom class!
+Warning: org.xml.sax.InputSource is a phantom class!
+Warning: org.apache.harmony.xml.ExpatReader is a phantom class!
+Warning: java.io.Reader is a phantom class!
+Warning: org.xmlpull.v1.XmlSerializer is a phantom class!
+Warning: org.xml.sax.XMLReader is a phantom class!
+Warning: org.kxml2.io.KXmlParser is a phantom class!
+Warning: java.io.StringReader is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserFactory is a phantom class!
+Warning: org.xml.sax.SAXException is a phantom class!
+Warning: org.xml.sax.ContentHandler is a phantom class!
+Warning: java.io.UnsupportedEncodingException is a phantom class!
+Warning: java.lang.Comparable is a phantom class!
+Warning: java.lang.CloneNotSupportedException is a phantom class!
+Warning: java.util.Locale is a phantom class!
+Warning: java.lang.ref.WeakReference is a phantom class!
+Warning: libcore.icu.NativePluralRules is a phantom class!
+Warning: java.util.Collection is a phantom class!
+Warning: java.util.Collections is a phantom class!
+Warning: java.util.LinkedHashSet is a phantom class!
+Warning: java.net.URLEncoder is a phantom class!
+Warning: java.net.URISyntaxException is a phantom class!
+Warning: java.util.HashSet is a phantom class!
+Warning: java.lang.NumberFormatException is a phantom class!
+Warning: java.util.Random is a phantom class!
+Warning: java.util.regex.Matcher is a phantom class!
+Warning: java.util.regex.Pattern is a phantom class!
+Warning: dalvik.system.BlockGuard is a phantom class!
+Warning: java.util.WeakHashMap is a phantom class!
+Warning: dalvik.system.BlockGuard$Policy is a phantom class!
+Warning: java.util.concurrent.TimeUnit is a phantom class!
+Warning: java.lang.InterruptedException is a phantom class!
+Warning: java.lang.ThreadLocal is a phantom class!
+Warning: java.nio.ShortBuffer is a phantom class!
+Warning: java.nio.ByteBuffer is a phantom class!
+Warning: java.nio.IntBuffer is a phantom class!
+Warning: java.nio.Buffer is a phantom class!
+Warning: java.lang.Math is a phantom class!
+Warning: java.security.SecureRandom is a phantom class!
+Warning: java.util.jar.Attributes is a phantom class!
+Warning: java.lang.IntegralToString is a phantom class!
+Warning: java.util.jar.Manifest is a phantom class!
+Warning: java.io.BufferedInputStream is a phantom class!
+Warning: java.util.Enumeration is a phantom class!
+Warning: java.util.jar.JarFile is a phantom class!
+Warning: java.security.spec.KeySpec is a phantom class!
+Warning: java.util.zip.ZipEntry is a phantom class!
+Warning: java.security.spec.X509EncodedKeySpec is a phantom class!
+Warning: java.security.KeyFactory is a phantom class!
+Warning: java.security.cert.Certificate is a phantom class!
+Warning: java.security.NoSuchAlgorithmException is a phantom class!
+Warning: java.security.cert.CertificateEncodingException is a phantom class!
+Warning: java.security.spec.InvalidKeySpecException is a phantom class!
+Warning: java.util.jar.JarEntry is a phantom class!
+Warning: java.security.PublicKey is a phantom class!
+Warning: java.net.Socket is a phantom class!
+Warning: java.net.DatagramSocket is a phantom class!
+Warning: java.lang.SecurityManager is a phantom class!
+Warning: java.io.PrintWriter is a phantom class!
+Warning: java.io.StringWriter is a phantom class!
+Warning: java.net.UnknownHostException is a phantom class!
+Warning: java.io.Writer is a phantom class!
+Warning: java.lang.reflect.Array is a phantom class!
+Warning: java.lang.Iterable is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicInteger is a phantom class!
+Warning: java.lang.Runtime is a phantom class!
+Warning: dalvik.system.CloseGuard is a phantom class!
+Warning: java.lang.StackTraceElement is a phantom class!
+Warning: java.io.PrintStream is a phantom class!
+Warning: dalvik.system.CloseGuard$Reporter is a phantom class!
+Warning: dalvik.system.VMDebug is a phantom class!
+Warning: java.lang.Enum is a phantom class!
+Warning: javax.microedition.khronos.opengles.GL is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantLock is a phantom class!
+Warning: java.util.LinkedHashMap is a phantom class!
+Warning: java.text.CollationKey is a phantom class!
+Warning: java.lang.Number is a phantom class!
+Warning: java.text.Collator is a phantom class!
+Warning: java.io.OutputStreamWriter is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.DdmServer is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.Chunk is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.ChunkHandler is a phantom class!
+Warning: java.io.BufferedReader is a phantom class!
+Warning: java.io.FileReader is a phantom class!
+Warning: java.util.concurrent.ExecutorService is a phantom class!
+Warning: java.security.cert.CertificateFactory is a phantom class!
+Warning: java.lang.ref.SoftReference is a phantom class!
+Warning: java.security.cert.CertificateException is a phantom class!
+Warning: java.lang.Appendable is a phantom class!
+Warning: java.io.DataInputStream is a phantom class!
+Warning: java.io.BufferedWriter is a phantom class!
+Warning: java.lang.NoSuchMethodException is a phantom class!
+Warning: java.util.logging.LogManager is a phantom class!
+Warning: dalvik.system.VMRuntime is a phantom class!
+Warning: java.lang.Thread$UncaughtExceptionHandler is a phantom class!
+Warning: java.lang.reflect.Method is a phantom class!
+Warning: java.util.TimeZone is a phantom class!
+Warning: org.apache.harmony.luni.internal.util.TimezoneGetter is a phantom class!
+Warning: java.lang.reflect.Modifier is a phantom class!
+Warning: dalvik.system.BlockGuard$BlockGuardPolicyException is a phantom class!
+Warning: java.nio.charset.CoderResult is a phantom class!
+Warning: java.nio.charset.Charset is a phantom class!
+Warning: java.nio.charset.IllegalCharsetNameException is a phantom class!
+Warning: java.nio.CharBuffer is a phantom class!
+Warning: java.nio.charset.CharsetEncoder is a phantom class!
+Warning: java.nio.charset.UnsupportedCharsetException is a phantom class!
+Warning: java.util.concurrent.CopyOnWriteArrayList is a phantom class!
+Warning: libcore.icu.ICU is a phantom class!
+Warning: java.util.AbstractList is a phantom class!
+Warning: java.util.RandomAccess is a phantom class!
+Warning: java.io.StreamTokenizer is a phantom class!
+Warning: java.util.concurrent.Executor is a phantom class!
+Warning: java.util.Date is a phantom class!
+Warning: libcore.util.ZoneInfoDB is a phantom class!
+Warning: java.util.concurrent.Executors is a phantom class!
+Warning: java.util.concurrent.ConcurrentLinkedQueue is a phantom class!
+Warning: dalvik.system.SocketTagger is a phantom class!
+Warning: java.net.SocketException is a phantom class!
+Warning: java.lang.reflect.InvocationTargetException is a phantom class!
+Warning: java.util.logging.Logger is a phantom class!
+Warning: java.util.logging.Handler is a phantom class!
+Warning: java.util.logging.Level is a phantom class!
+Warning: java.lang.annotation.Annotation is a phantom class!
+Warning: java.lang.annotation.Target is a phantom class!
+Warning: java.lang.annotation.Retention is a phantom class!
+Warning: java.io.DataOutputStream is a phantom class!
+Warning: java.util.concurrent.CountDownLatch is a phantom class!
+Warning: java.io.BufferedOutputStream is a phantom class!
+Warning: java.lang.reflect.Constructor is a phantom class!
+Warning: java.nio.ByteOrder is a phantom class!
+Warning: libcore.io.OsConstants is a phantom class!
+Warning: libcore.io.Os is a phantom class!
+Warning: libcore.io.ErrnoException is a phantom class!
+Warning: java.util.LinkedList is a phantom class!
+Warning: libcore.io.StructStat is a phantom class!
+Warning: libcore.io.Libcore is a phantom class!
+Warning: java.net.SocketAddress is a phantom class!
+Warning: java.net.InetSocketAddress is a phantom class!
+Warning: java.net.Proxy$Type is a phantom class!
+Warning: java.net.Proxy is a phantom class!
+Warning: java.lang.InstantiationException is a phantom class!
+Warning: java.net.InetAddress is a phantom class!
+Warning: java.net.ProxySelector is a phantom class!
+Warning: java.net.URI is a phantom class!
+Warning: dalvik.system.profiler.HprofData is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicBoolean is a phantom class!
+Warning: java.lang.ThreadGroup is a phantom class!
+Warning: java.lang.AutoCloseable is a phantom class!
+Warning: dalvik.system.profiler.SamplingProfiler is a phantom class!
+Warning: java.util.concurrent.ThreadFactory is a phantom class!
+Warning: libcore.io.IoUtils is a phantom class!
+Warning: dalvik.system.profiler.BinaryHprofWriter is a phantom class!
+Warning: dalvik.system.profiler.SamplingProfiler$ThreadSet is a phantom class!
+Warning: java.util.concurrent.ThreadPoolExecutor is a phantom class!
+Warning: java.util.concurrent.FutureTask is a phantom class!
+Warning: java.util.concurrent.TimeoutException is a phantom class!
+Warning: java.util.concurrent.Callable is a phantom class!
+Warning: java.util.concurrent.BlockingQueue is a phantom class!
+Warning: java.util.concurrent.LinkedBlockingQueue is a phantom class!
+Warning: java.util.concurrent.ExecutionException is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.DdmVmInternal is a phantom class!
+Warning: dalvik.system.DalvikLogHandler is a phantom class!
+Warning: java.util.logging.LogRecord is a phantom class!
+Warning: java.util.logging.Formatter is a phantom class!
+Warning: dalvik.system.DalvikLogging is a phantom class!
+Warning: java.util.Formatter is a phantom class!
+Warning: java.nio.charset.CodingErrorAction is a phantom class!
+Warning: java.nio.charset.CharsetDecoder is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantReadWriteLock is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantReadWriteLock$WriteLock is a phantom class!
+Warning: java.util.Comparator is a phantom class!
+Warning: java.nio.channels.FileChannel is a phantom class!
+Warning: javax.microedition.khronos.egl.EGL10 is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLSurface is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLConfig is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLDisplay is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLContext is a phantom class!
+Warning: java.io.InputStreamReader is a phantom class!
+Warning: javax.microedition.khronos.egl.EGL is a phantom class!
+Warning: com.google.android.gles_jni.EGLImpl is a phantom class!
+Warning: java.util.zip.CheckedInputStream is a phantom class!
+Warning: java.util.zip.Checksum is a phantom class!
+Warning: java.io.FileWriter is a phantom class!
+Warning: java.util.zip.CRC32 is a phantom class!
+Warning: dalvik.system.PathClassLoader is a phantom class!
+Warning: java.net.URL is a phantom class!
+Warning: java.util.EnumMap is a phantom class!
+Warning: java.net.Inet4Address is a phantom class!
+Warning: java.net.Inet6Address is a phantom class!
+Warning: java.util.ArrayDeque is a phantom class!
+Warning: java.util.concurrent.CancellationException is a phantom class!
+Warning: java.util.Calendar is a phantom class!
+Warning: java.io.Closeable is a phantom class!
+Warning: java.util.zip.GZIPInputStream is a phantom class!
+Warning: com.google.android.collect.Maps is a phantom class!
+Warning: java.net.InterfaceAddress is a phantom class!
+Warning: java.lang.Package is a phantom class!
+Warning: java.util.BitSet is a phantom class!
+Warning: java.util.StringTokenizer is a phantom class!
+Warning: java.text.DecimalFormat is a phantom class!
+Warning: android.R$styleable is a phantom class!
+Warning: com.google.android.collect.Lists is a phantom class!
+Warning: java.text.DateFormat is a phantom class!
+Warning: java.util.GregorianCalendar is a phantom class!
+Warning: java.util.Stack is a phantom class!
+Warning: java.net.ServerSocket is a phantom class!
+Warning: com.android.internal.telephony.gsm.GSMPhone$1 is a phantom class!
+Warning: java.lang.StringIndexOutOfBoundsException is a phantom class!
+Warning: java.text.ParseException is a phantom class!
+Warning: java.util.Queue is a phantom class!
+Warning: java.text.BreakIterator is a phantom class!
+Warning: java.text.SimpleDateFormat is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicReference is a phantom class!
+Warning: java.util.concurrent.ConcurrentHashMap is a phantom class!
+Warning: libcore.icu.TimeZones is a phantom class!
+Warning: javax.sip.address.AddressFactory is a phantom class!
+Warning: javax.sip.address.URI is a phantom class!
+Warning: javax.sip.SipFactory is a phantom class!
+Warning: javax.sip.address.Address is a phantom class!
+Warning: javax.sip.InvalidArgumentException is a phantom class!
+Warning: javax.sip.address.SipURI is a phantom class!
+Warning: javax.sip.PeerUnavailableException is a phantom class!
+Warning: java.io.ObjectStreamException is a phantom class!
+Warning: javax.sip.SipException is a phantom class!
+Warning: java.util.NoSuchElementException is a phantom class!
+Warning: java.nio.charset.Charsets is a phantom class!
+Warning: java.util.Vector is a phantom class!
+Warning: java.net.URLDecoder is a phantom class!
+Warning: java.io.ObjectInput is a phantom class!
+Warning: java.security.cert.X509Certificate is a phantom class!
+Warning: libcore.net.MimeUtils is a phantom class!
+Warning: org.apache.harmony.security.provider.cert.X509CertImpl is a phantom class!
+Warning: java.net.MalformedURLException is a phantom class!
+Warning: junit.framework.Assert is a phantom class!
+Warning: java.io.Externalizable is a phantom class!
+Warning: java.io.ObjectOutput is a phantom class!
+Warning: java.io.FilenameFilter is a phantom class!
+Warning: java.security.KeyPairGenerator is a phantom class!
+Warning: java.security.KeyPair is a phantom class!
+Warning: com.android.org.bouncycastle.util.encoders.Base64 is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.ASN1ObjectIdentifier is a phantom class!
+Warning: com.android.org.bouncycastle.jce.netscape.NetscapeCertRequest is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.DERObjectIdentifier is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.pkcs.PKCSObjectIdentifiers is a phantom class!
+Warning: java.security.PrivateKey is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.DERObject is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.x509.AlgorithmIdentifier is a phantom class!
+Warning: org.json.JSONException is a phantom class!
+Warning: org.json.JSONObject is a phantom class!
+Warning: org.json.JSONStringer is a phantom class!
+Warning: org.json.JSONArray is a phantom class!
+Warning: org.apache.harmony.xnet.provider.jsse.NativeCrypto is a phantom class!
+Warning: java.util.SortedSet is a phantom class!
+Warning: java.util.TreeSet is a phantom class!
+Warning: java.io.CharArrayWriter is a phantom class!
+Warning: java.lang.Character$UnicodeBlock is a phantom class!
+Warning: com.android.org.bouncycastle.openssl.PEMWriter is a phantom class!
+Warning: com.android.org.bouncycastle.openssl.PEMReader is a phantom class!
+Warning: java.lang.ref.ReferenceQueue is a phantom class!
+Warning: java.util.ListIterator is a phantom class!
+Warning: java.lang.ref.Reference is a phantom class!
+Warning: libcore.io.Base64 is a phantom class!
+Warning: java.util.Timer is a phantom class!
+Warning: java.util.TimerTask is a phantom class!
+Warning: java.net.ProtocolException is a phantom class!
+Warning: java.security.Principal is a phantom class!
+Warning: javax.security.auth.x500.X500Principal is a phantom class!
+Warning: org.apache.harmony.xnet.provider.jsse.TrustedCertificateStore is a phantom class!
+Warning: libcore.util.Objects is a phantom class!
+Warning: java.nio.FloatBuffer is a phantom class!
+Warning: javax.net.ssl.SSLSession is a phantom class!
+Warning: java.io.InterruptedIOException is a phantom class!
+Warning: android.annotation.TargetApi is a phantom class!
+Warning: android.app.ActivityOptions is a phantom class!
+Warning: android.app.AppOpsManager is a phantom class!
+Warning: android.app.Notification$Action$Builder is a phantom class!
+Warning: android.app.Notification$Action is a phantom class!
+Warning: android.app.Notification$BigPictureStyle is a phantom class!
+Warning: android.app.Notification$BigTextStyle is a phantom class!
+Warning: java.text.NumberFormat is a phantom class!
+Warning: android.app.Notification$InboxStyle is a phantom class!
+Warning: android.app.Notification$MediaStyle is a phantom class!
+Warning: android.app.RemoteInput$Builder is a phantom class!
+Warning: android.app.RemoteInput is a phantom class!
+Warning: android.app.SharedElementCallback is a phantom class!
+Warning: android.graphics.Outline is a phantom class!
+Warning: android.graphics.pdf.PdfDocument$Page is a phantom class!
+Warning: android.graphics.pdf.PdfDocument$PageInfo is a phantom class!
+Warning: android.hardware.display.DisplayManager is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$AuthenticationCallback is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$AuthenticationResult is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$CryptoObject is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager is a phantom class!
+Warning: android.media.AudioAttributes$Builder is a phantom class!
+Warning: android.media.AudioAttributes is a phantom class!
+Warning: android.media.MediaDescription$Builder is a phantom class!
+Warning: android.media.MediaDescription is a phantom class!
+Warning: android.media.MediaMetadata$Builder is a phantom class!
+Warning: android.media.MediaMetadata is a phantom class!
+Warning: android.media.MediaMetadataEditor is a phantom class!
+Warning: android.media.MediaRouter$Callback is a phantom class!
+Warning: android.media.MediaRouter$RouteCategory is a phantom class!
+Warning: android.media.MediaRouter$RouteGroup is a phantom class!
+Warning: android.media.MediaRouter$RouteInfo is a phantom class!
+Warning: android.media.MediaRouter$UserRouteInfo is a phantom class!
+Warning: android.media.MediaRouter$VolumeCallback is a phantom class!
+Warning: android.media.MediaRouter is a phantom class!
+Warning: android.media.Rating is a phantom class!
+Warning: android.media.RemoteControlClient$OnGetPlaybackPositionListener is a phantom class!
+Warning: android.media.RemoteControlClient$OnMetadataUpdateListener is a phantom class!
+Warning: android.media.RemoteControlClient$OnPlaybackPositionUpdateListener is a phantom class!
+Warning: android.media.VolumeProvider is a phantom class!
+Warning: android.media.session.MediaController$Callback is a phantom class!
+Warning: android.media.session.MediaController$PlaybackInfo is a phantom class!
+Warning: android.media.session.MediaController$TransportControls is a phantom class!
+Warning: android.media.session.MediaController is a phantom class!
+Warning: android.media.session.MediaSession$Callback is a phantom class!
+Warning: android.media.session.MediaSession$QueueItem is a phantom class!
+Warning: android.media.session.MediaSession$Token is a phantom class!
+Warning: android.media.session.MediaSession is a phantom class!
+Warning: android.media.session.PlaybackState$Builder is a phantom class!
+Warning: android.media.session.PlaybackState$CustomAction$Builder is a phantom class!
+Warning: android.media.session.PlaybackState$CustomAction is a phantom class!
+Warning: android.media.session.PlaybackState is a phantom class!
+Warning: javax.net.ssl.SSLSocket is a phantom class!
+Warning: javax.net.ssl.SSLPeerUnverifiedException is a phantom class!
+Warning: javax.security.cert.X509Certificate is a phantom class!
+Warning: javax.net.ssl.SSLSessionContext is a phantom class!
+Warning: android.os.CancellationSignal$OnCancelListener is a phantom class!
+Warning: android.os.CancellationSignal is a phantom class!
+Warning: android.os.OperationCanceledException is a phantom class!
+Warning: android.os.Trace is a phantom class!
+Warning: android.print.PageRange is a phantom class!
+Warning: android.print.PrintAttributes$Builder is a phantom class!
+Warning: android.print.PrintAttributes$MediaSize is a phantom class!
+Warning: android.print.PrintAttributes is a phantom class!
+Warning: android.print.PrintDocumentAdapter$LayoutResultCallback is a phantom class!
+Warning: android.print.PrintDocumentAdapter$WriteResultCallback is a phantom class!
+Warning: android.print.PrintDocumentAdapter is a phantom class!
+Warning: android.print.PrintDocumentInfo$Builder is a phantom class!
+Warning: android.print.PrintDocumentInfo is a phantom class!
+Warning: android.print.PrintJob is a phantom class!
+Warning: android.print.PrintManager is a phantom class!
+Warning: android.print.pdf.PrintedPdfDocument is a phantom class!
+Warning: android.provider.DocumentsContract is a phantom class!
+Warning: java.io.FileFilter is a phantom class!
+Warning: java.util.zip.ZipFile is a phantom class!
+Warning: java.io.RandomAccessFile is a phantom class!
+Warning: java.util.zip.ZipException is a phantom class!
+Warning: android.transition.Transition is a phantom class!
+Warning: android.transition.Transition$EpicenterCallback is a phantom class!
+Warning: javax.crypto.Cipher is a phantom class!
+Warning: javax.crypto.Mac is a phantom class!
+Warning: java.security.Signature is a phantom class!
+Warning: android.view.ViewTreeObserver$OnWindowAttachListener is a phantom class!
+Warning: android.view.ViewTreeObserver$OnWindowFocusChangeListener is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeProvider is a phantom class!
+Warning: android.view.View$OnApplyWindowInsetsListener is a phantom class!
+Warning: android.view.WindowInsets is a phantom class!
+Warning: android.view.SearchEvent is a phantom class!
+Warning: android.view.ActionProvider$VisibilityListener is a phantom class!
+Warning: org.xml.sax.SAXNotSupportedException is a phantom class!
+Warning: org.xml.sax.SAXNotRecognizedException is a phantom class!
+Warning: org.ccil.cowan.tagsoup.HTMLSchema is a phantom class!
+Warning: org.ccil.cowan.tagsoup.Parser is a phantom class!
+Warning: org.xml.sax.Locator is a phantom class!
+Warning: org.xml.sax.Attributes is a phantom class!
+Warning: android.transition.TransitionManager is a phantom class!
+Warning: android.transition.TransitionSet is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$AccessibilityAction is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$CollectionInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$CollectionItemInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$RangeInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityWindowInfo is a phantom class!
+Warning: android.view.animation.PathInterpolator is a phantom class!
+Warning: java.math.BigDecimal is a phantom class!
+Warning: android.widget.ThemedSpinnerAdapter is a phantom class!
+Warning: dalvik.system.DexFile is a phantom class!
+Warning: java.lang.annotation.Documented is a phantom class!
+Warning: java.lang.annotation.ElementType is a phantom class!
+Warning: java.lang.annotation.RetentionPolicy is a phantom class!
+Warning: java.net.ConnectException is a phantom class!
+Warning: java.util.Hashtable is a phantom class!
+Warning: java.util.Properties is a phantom class!
+Warning: java.util.Scanner is a phantom class!
+Warning: java.util.concurrent.locks.Condition is a phantom class!
+Warning: java.util.concurrent.locks.Lock is a phantom class!
+Warning: java.util.zip.ZipOutputStream is a phantom class!
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.content.Context, because it is abstract and cannot substitute with subclass
+[main] INFO soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Generated main method:
+    public static void dummyMainMethod(java.lang.String[])
+    {
+        java.lang.String[] $r0;
+        int $i0;
+        com.example.hussienalrubaye.webview.ServiceNotification $r1;
+        com.example.hussienalrubaye.webview.SubResources $r2;
+        android.os.Bundle $r3, $r5, $r7, $r9;
+        com.example.hussienalrubaye.webview.MainActivity $r4;
+        com.example.hussienalrubaye.webview.ResourcesName $r6;
+        com.example.hussienalrubaye.webview.welcomeActivity $r8;
+        com.example.hussienalrubaye.webview.MyBroadcastReceiver $r10;
+        android.content.Intent $r11;
+
+        $r0 := @parameter0: java.lang.String[];
+
+        $i0 = 0;
+
+     label01:
+        if $i0 == 0 goto label04;
+
+        $r1 = new com.example.hussienalrubaye.webview.ServiceNotification;
+
+        specialinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void <init>()>();
+
+     label02:
+        if $i0 == 1 goto label03;
+
+        if $i0 == 2 goto label02;
+
+     label03:
+        if $i0 == 4 goto label04;
+
+        if $i0 == 5 goto label03;
+
+     label04:
+        if $i0 == 6 goto label06;
+
+        $r2 = new com.example.hussienalrubaye.webview.SubResources;
+
+        specialinvoke $r2.<com.example.hussienalrubaye.webview.SubResources: void <init>()>();
+
+        if $i0 == 7 goto label06;
+
+        $r3 = new android.os.Bundle;
+
+        specialinvoke $r3.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r2.<com.example.hussienalrubaye.webview.SubResources: void onCreate(android.os.Bundle)>($r3);
+
+        $r3 = null;
+
+     label05:
+        if $i0 == 9 goto label06;
+
+        if $i0 == 10 goto label05;
+
+     label06:
+        if $i0 == 12 goto label08;
+
+        $r4 = new com.example.hussienalrubaye.webview.MainActivity;
+
+        specialinvoke $r4.<com.example.hussienalrubaye.webview.MainActivity: void <init>()>();
+
+        if $i0 == 13 goto label08;
+
+        $r5 = new android.os.Bundle;
+
+        specialinvoke $r5.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r4.<com.example.hussienalrubaye.webview.MainActivity: void onCreate(android.os.Bundle)>($r5);
+
+        $r5 = null;
+
+     label07:
+        virtualinvoke $r4.<com.example.hussienalrubaye.webview.MainActivity: void onResume()>();
+
+        virtualinvoke $r4.<com.example.hussienalrubaye.webview.MainActivity: void onPause()>();
+
+        if $i0 == 14 goto label07;
+
+        if $i0 == 15 goto label08;
+
+        if $i0 == 16 goto label07;
+
+     label08:
+        if $i0 == 18 goto label10;
+
+        $r6 = new com.example.hussienalrubaye.webview.ResourcesName;
+
+        specialinvoke $r6.<com.example.hussienalrubaye.webview.ResourcesName: void <init>()>();
+
+        if $i0 == 19 goto label10;
+
+        $r7 = new android.os.Bundle;
+
+        specialinvoke $r7.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.ResourcesName: void onCreate(android.os.Bundle)>($r7);
+
+        $r7 = null;
+
+     label09:
+        if $i0 == 21 goto label10;
+
+        if $i0 == 22 goto label09;
+
+     label10:
+        if $i0 == 24 goto label12;
+
+        $r8 = new com.example.hussienalrubaye.webview.welcomeActivity;
+
+        specialinvoke $r8.<com.example.hussienalrubaye.webview.welcomeActivity: void <init>()>();
+
+        if $i0 == 25 goto label12;
+
+        $r9 = new android.os.Bundle;
+
+        specialinvoke $r9.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r8.<com.example.hussienalrubaye.webview.welcomeActivity: void onCreate(android.os.Bundle)>($r9);
+
+        $r9 = null;
+
+     label11:
+        if $i0 == 27 goto label12;
+
+        if $i0 == 28 goto label11;
+
+     label12:
+        if $i0 == 30 goto label14;
+
+        $r10 = new com.example.hussienalrubaye.webview.MyBroadcastReceiver;
+
+        specialinvoke $r10.<com.example.hussienalrubaye.webview.MyBroadcastReceiver: void <init>()>();
+
+        if $i0 == 31 goto label14;
+
+        $r11 = new android.content.Intent;
+
+        specialinvoke $r11.<android.content.Intent: void <init>()>();
+
+     label13:
+        virtualinvoke $r10.<com.example.hussienalrubaye.webview.MyBroadcastReceiver: void onReceive(android.content.Context,android.content.Intent)>(null, $r11);
+
+        $r11 = null;
+
+        if $i0 == 33 goto label13;
+
+     label14:
+        if $i0 == 34 goto label01;
+
+        return;
+    }
+
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.2 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 4.9 seconds.
+[Spark] Solution found in 4.9 seconds.
+Callback analysis done.
+Warning: LinearLayout is a phantom class!
+Warning: com.example.hussienalrubaye.webview.LinearLayout is a phantom class!
+Warning: android.view.LinearLayout is a phantom class!
+Warning: ImageView is a phantom class!
+Warning: com.example.hussienalrubaye.webview.ImageView is a phantom class!
+Warning: android.view.ImageView is a phantom class!
+Warning: FrameLayout is a phantom class!
+Warning: com.example.hussienalrubaye.webview.FrameLayout is a phantom class!
+Warning: android.view.FrameLayout is a phantom class!
+Warning: ScrollView is a phantom class!
+Warning: com.example.hussienalrubaye.webview.ScrollView is a phantom class!
+Warning: android.view.ScrollView is a phantom class!
+Warning: TextView is a phantom class!
+Warning: com.example.hussienalrubaye.webview.TextView is a phantom class!
+Warning: android.view.TextView is a phantom class!
+Warning: View is a phantom class!
+Warning: com.example.hussienalrubaye.webview.View is a phantom class!
+Warning: Button is a phantom class!
+Warning: com.example.hussienalrubaye.webview.Button is a phantom class!
+Warning: android.view.Button is a phantom class!
+Found 1 layout controls in file res/layout-v17/abc_alert_dialog_material.xml
+Found 2 layout controls in file res/layout-v17/abc_dialog_title_material.xml
+Warning: view is a phantom class!
+Warning: com.example.hussienalrubaye.webview.view is a phantom class!
+Warning: android.view.view is a phantom class!
+Warning: android.widget.view is a phantom class!
+Warning: android.webkit.view is a phantom class!
+Could not find layout class view
+Found 3 layout controls in file res/layout-v17/abc_search_view.xml
+Warning: RelativeLayout is a phantom class!
+Warning: com.example.hussienalrubaye.webview.RelativeLayout is a phantom class!
+Warning: android.view.RelativeLayout is a phantom class!
+Warning: WebView is a phantom class!
+Warning: com.example.hussienalrubaye.webview.WebView is a phantom class!
+Warning: android.view.WebView is a phantom class!
+Warning: android.widget.WebView is a phantom class!
+Found 4 layout controls in file res/layout-v17/activity_main.xml
+Warning: ListView is a phantom class!
+Warning: com.example.hussienalrubaye.webview.ListView is a phantom class!
+Warning: android.view.ListView is a phantom class!
+Found 5 layout controls in file res/layout-v17/activity_resources_name.xml
+Found 6 layout controls in file res/layout-v17/item_resources_ame.xml
+Found 7 layout controls in file res/layout-v17/item_subresource_list.xml
+Found 8 layout controls in file res/layout-v17/notification_template_big_media.xml
+Found 9 layout controls in file res/layout-v17/notification_template_big_media_narrow.xml
+Found 10 layout controls in file res/layout-v17/notification_template_lines.xml
+Found 11 layout controls in file res/layout-v17/notification_template_media.xml
+Warning: Chronometer is a phantom class!
+Warning: com.example.hussienalrubaye.webview.Chronometer is a phantom class!
+Warning: android.view.Chronometer is a phantom class!
+Warning: java.util.IllegalFormatException is a phantom class!
+Found 12 layout controls in file res/layout-v17/notification_template_part_chronometer.xml
+Warning: DateTimeView is a phantom class!
+Warning: com.example.hussienalrubaye.webview.DateTimeView is a phantom class!
+Warning: android.view.DateTimeView is a phantom class!
+Found 13 layout controls in file res/layout-v17/notification_template_part_time.xml
+Found 14 layout controls in file res/layout-v21/abc_screen_toolbar.xml
+Found 15 layout controls in file res/layout/abc_action_bar_title_item.xml
+Found 16 layout controls in file res/layout/abc_action_bar_up_container.xml
+Found 17 layout controls in file res/layout/abc_action_bar_view_list_nav_layout.xml
+Found 18 layout controls in file res/layout/abc_action_menu_item_layout.xml
+Found 19 layout controls in file res/layout/abc_action_menu_layout.xml
+Found 20 layout controls in file res/layout/abc_action_mode_bar.xml
+Found 21 layout controls in file res/layout/abc_action_mode_close_item_material.xml
+Could not find layout class view
+Found 22 layout controls in file res/layout/abc_activity_chooser_view.xml
+Found 23 layout controls in file res/layout/abc_activity_chooser_view_list_item.xml
+Found 24 layout controls in file res/layout/abc_alert_dialog_material.xml
+Found 25 layout controls in file res/layout/abc_dialog_title_material.xml
+Found 26 layout controls in file res/layout/abc_expanded_menu_layout.xml
+Warning: CheckBox is a phantom class!
+Warning: com.example.hussienalrubaye.webview.CheckBox is a phantom class!
+Warning: android.view.CheckBox is a phantom class!
+Found 27 layout controls in file res/layout/abc_list_menu_item_checkbox.xml
+Found 28 layout controls in file res/layout/abc_list_menu_item_icon.xml
+Found 29 layout controls in file res/layout/abc_list_menu_item_layout.xml
+Warning: RadioButton is a phantom class!
+Warning: com.example.hussienalrubaye.webview.RadioButton is a phantom class!
+Warning: android.view.RadioButton is a phantom class!
+Found 30 layout controls in file res/layout/abc_list_menu_item_radio.xml
+Found 31 layout controls in file res/layout/abc_popup_menu_item_layout.xml
+Found 32 layout controls in file res/layout/abc_screen_content_include.xml
+Found 33 layout controls in file res/layout/abc_screen_simple.xml
+Found 34 layout controls in file res/layout/abc_screen_simple_overlay_action_mode.xml
+Found 35 layout controls in file res/layout/abc_screen_toolbar.xml
+Found 36 layout controls in file res/layout/abc_search_dropdown_item_icons_2line.xml
+Could not find layout class view
+Found 37 layout controls in file res/layout/abc_search_view.xml
+Found 38 layout controls in file res/layout/abc_select_dialog_material.xml
+Found 39 layout controls in file res/layout/activity_main.xml
+Found 40 layout controls in file res/layout/activity_resources_name.xml
+Found 41 layout controls in file res/layout/activity_sub_resources.xml
+Found 42 layout controls in file res/layout/activity_welcome.xml
+Found 43 layout controls in file res/layout/item_resources_ame.xml
+Found 44 layout controls in file res/layout/item_subresource_list.xml
+Warning: ImageButton is a phantom class!
+Warning: com.example.hussienalrubaye.webview.ImageButton is a phantom class!
+Warning: android.view.ImageButton is a phantom class!
+Found 45 layout controls in file res/layout/notification_media_action.xml
+Found 46 layout controls in file res/layout/notification_media_cancel_action.xml
+Found 47 layout controls in file res/layout/notification_template_big_media.xml
+Found 48 layout controls in file res/layout/notification_template_big_media_narrow.xml
+Found 49 layout controls in file res/layout/notification_template_lines.xml
+Found 50 layout controls in file res/layout/notification_template_media.xml
+Found 51 layout controls in file res/layout/notification_template_part_chronometer.xml
+Found 52 layout controls in file res/layout/notification_template_part_time.xml
+Warning: searchable is a phantom class!
+Warning: com.example.hussienalrubaye.webview.searchable is a phantom class!
+Warning: android.view.searchable is a phantom class!
+Warning: android.widget.searchable is a phantom class!
+Warning: android.webkit.searchable is a phantom class!
+Could not find layout class searchable
+Found 52 layout controls in file res/layout/searchable.xml
+Found 53 layout controls in file res/layout/select_dialog_item_material.xml
+Warning: CheckedTextView is a phantom class!
+Warning: com.example.hussienalrubaye.webview.CheckedTextView is a phantom class!
+Warning: android.view.CheckedTextView is a phantom class!
+Found 54 layout controls in file res/layout/select_dialog_multichoice_material.xml
+Found 55 layout controls in file res/layout/select_dialog_singlechoice_material.xml
+Found 56 layout controls in file res/layout/support_simple_spinner_dropdown_item.xml
+warning: Android API version '23' not available, using minApkVersion '15' instead
+Warning: java.lang.Throwable is a phantom class!
+Warning: java.lang.Void is a phantom class!
+Warning: java.lang.Float is a phantom class!
+Warning: java.lang.Double is a phantom class!
+Warning: java.lang.AssertionError is a phantom class!
+Warning: java.lang.Integer is a phantom class!
+Warning: java.lang.NullPointerException is a phantom class!
+Warning: java.lang.Character is a phantom class!
+Warning: java.lang.Long is a phantom class!
+Warning: java.lang.Short is a phantom class!
+Warning: java.lang.StringBuffer is a phantom class!
+Warning: java.lang.Boolean is a phantom class!
+Warning: java.lang.Class is a phantom class!
+Warning: java.lang.Byte is a phantom class!
+Warning: java.lang.NoClassDefFoundError is a phantom class!
+Warning: java.lang.IndexOutOfBoundsException is a phantom class!
+Warning: java.lang.StackOverflowError is a phantom class!
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.Error is a phantom class!
+Warning: java.lang.AbstractMethodError is a phantom class!
+Warning: java.lang.ClassCastException is a phantom class!
+Warning: java.lang.Runnable is a phantom class!
+Warning: java.lang.VerifyError is a phantom class!
+Warning: java.lang.NoSuchFieldError is a phantom class!
+Warning: java.lang.IllegalMonitorStateException is a phantom class!
+Warning: java.lang.Thread is a phantom class!
+Warning: java.lang.UnknownError is a phantom class!
+Warning: java.lang.InternalError is a phantom class!
+Warning: java.lang.ArithmeticException is a phantom class!
+Warning: java.lang.String is a phantom class!
+Warning: java.lang.NegativeArraySizeException is a phantom class!
+Warning: java.lang.ClassCircularityError is a phantom class!
+Warning: java.lang.Cloneable is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: java.lang.LinkageError is a phantom class!
+Warning: java.lang.IncompatibleClassChangeError is a phantom class!
+Warning: java.lang.NoSuchMethodError is a phantom class!
+Warning: java.lang.RuntimeException is a phantom class!
+Warning: java.lang.ArrayIndexOutOfBoundsException is a phantom class!
+Warning: java.lang.ThreadDeath is a phantom class!
+Warning: java.io.Serializable is a phantom class!
+Warning: java.lang.InstantiationError is a phantom class!
+Warning: java.lang.IllegalAccessError is a phantom class!
+Warning: java.lang.Object is a phantom class!
+Warning: java.lang.ClassNotFoundException is a phantom class!
+Warning: java.lang.ClassFormatError is a phantom class!
+Warning: java.lang.UnsatisfiedLinkError is a phantom class!
+Warning: java.lang.ArrayStoreException is a phantom class!
+Warning: java.lang.ExceptionInInitializerError is a phantom class!
+Warning: java.lang.OutOfMemoryError is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParser is a phantom class!
+Warning: java.io.IOException is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserException is a phantom class!
+Warning: java.lang.StringBuilder is a phantom class!
+Warning: java.lang.ClassLoader is a phantom class!
+Warning: java.lang.CharSequence is a phantom class!
+Warning: java.lang.Deprecated is a phantom class!
+Warning: java.io.FileOutputStream is a phantom class!
+Warning: java.io.FileInputStream is a phantom class!
+Warning: java.io.File is a phantom class!
+Warning: java.io.FileNotFoundException is a phantom class!
+Warning: java.io.InputStream is a phantom class!
+Warning: java.util.List is a phantom class!
+Warning: java.lang.IllegalStateException is a phantom class!
+Warning: java.util.Arrays is a phantom class!
+Warning: java.lang.System is a phantom class!
+Warning: java.io.ObjectInputStream is a phantom class!
+Warning: java.lang.NoSuchFieldException is a phantom class!
+Warning: java.io.ByteArrayInputStream is a phantom class!
+Warning: java.util.Map is a phantom class!
+Warning: java.lang.SecurityException is a phantom class!
+Warning: java.lang.IllegalAccessException is a phantom class!
+Warning: java.util.Set is a phantom class!
+Warning: java.lang.Exception is a phantom class!
+Warning: java.io.ByteArrayOutputStream is a phantom class!
+Warning: java.util.HashMap is a phantom class!
+Warning: java.util.ArrayList is a phantom class!
+Warning: java.io.ObjectOutputStream is a phantom class!
+Warning: java.io.OutputStream is a phantom class!
+Warning: java.util.Map$Entry is a phantom class!
+Warning: java.util.Iterator is a phantom class!
+Warning: java.lang.IllegalArgumentException is a phantom class!
+Warning: java.lang.reflect.Field is a phantom class!
+Warning: java.io.FileDescriptor is a phantom class!
+Warning: java.lang.UnsupportedOperationException is a phantom class!
+Warning: org.xml.sax.InputSource is a phantom class!
+Warning: org.apache.harmony.xml.ExpatReader is a phantom class!
+Warning: java.io.Reader is a phantom class!
+Warning: org.xmlpull.v1.XmlSerializer is a phantom class!
+Warning: org.xml.sax.XMLReader is a phantom class!
+Warning: org.kxml2.io.KXmlParser is a phantom class!
+Warning: java.io.StringReader is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserFactory is a phantom class!
+Warning: org.xml.sax.SAXException is a phantom class!
+Warning: org.xml.sax.ContentHandler is a phantom class!
+Warning: java.io.UnsupportedEncodingException is a phantom class!
+Warning: java.lang.Comparable is a phantom class!
+Warning: java.lang.CloneNotSupportedException is a phantom class!
+Warning: java.util.Locale is a phantom class!
+Warning: java.lang.ref.WeakReference is a phantom class!
+Warning: libcore.icu.NativePluralRules is a phantom class!
+Warning: java.util.Collection is a phantom class!
+Warning: java.util.Collections is a phantom class!
+Warning: java.util.LinkedHashSet is a phantom class!
+Warning: java.net.URLEncoder is a phantom class!
+Warning: java.net.URISyntaxException is a phantom class!
+Warning: java.util.HashSet is a phantom class!
+Warning: java.lang.NumberFormatException is a phantom class!
+Warning: java.util.Random is a phantom class!
+Warning: java.util.regex.Matcher is a phantom class!
+Warning: java.util.regex.Pattern is a phantom class!
+Warning: dalvik.system.BlockGuard is a phantom class!
+Warning: java.util.WeakHashMap is a phantom class!
+Warning: dalvik.system.BlockGuard$Policy is a phantom class!
+Warning: java.util.concurrent.TimeUnit is a phantom class!
+Warning: java.lang.InterruptedException is a phantom class!
+Warning: java.lang.ThreadLocal is a phantom class!
+Warning: java.nio.ShortBuffer is a phantom class!
+Warning: java.nio.ByteBuffer is a phantom class!
+Warning: java.nio.IntBuffer is a phantom class!
+Warning: java.nio.Buffer is a phantom class!
+Warning: java.lang.Math is a phantom class!
+Warning: java.security.SecureRandom is a phantom class!
+Warning: java.util.jar.Attributes is a phantom class!
+Warning: java.lang.IntegralToString is a phantom class!
+Warning: java.util.jar.Manifest is a phantom class!
+Warning: java.io.BufferedInputStream is a phantom class!
+Warning: java.util.Enumeration is a phantom class!
+Warning: java.util.jar.JarFile is a phantom class!
+Warning: java.security.spec.KeySpec is a phantom class!
+Warning: java.util.zip.ZipEntry is a phantom class!
+Warning: java.security.spec.X509EncodedKeySpec is a phantom class!
+Warning: java.security.KeyFactory is a phantom class!
+Warning: java.security.cert.Certificate is a phantom class!
+Warning: java.security.NoSuchAlgorithmException is a phantom class!
+Warning: java.security.cert.CertificateEncodingException is a phantom class!
+Warning: java.security.spec.InvalidKeySpecException is a phantom class!
+Warning: java.util.jar.JarEntry is a phantom class!
+Warning: java.security.PublicKey is a phantom class!
+Warning: java.net.Socket is a phantom class!
+Warning: java.net.DatagramSocket is a phantom class!
+Warning: java.lang.SecurityManager is a phantom class!
+Warning: java.io.PrintWriter is a phantom class!
+Warning: java.io.StringWriter is a phantom class!
+Warning: java.net.UnknownHostException is a phantom class!
+Warning: java.io.Writer is a phantom class!
+Warning: java.lang.reflect.Array is a phantom class!
+Warning: java.lang.Iterable is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicInteger is a phantom class!
+Warning: java.lang.Runtime is a phantom class!
+Warning: dalvik.system.CloseGuard is a phantom class!
+Warning: java.lang.StackTraceElement is a phantom class!
+Warning: java.io.PrintStream is a phantom class!
+Warning: dalvik.system.CloseGuard$Reporter is a phantom class!
+Warning: dalvik.system.VMDebug is a phantom class!
+Warning: java.lang.Enum is a phantom class!
+Warning: javax.microedition.khronos.opengles.GL is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantLock is a phantom class!
+Warning: java.util.LinkedHashMap is a phantom class!
+Warning: java.text.CollationKey is a phantom class!
+Warning: java.lang.Number is a phantom class!
+Warning: java.text.Collator is a phantom class!
+Warning: java.io.OutputStreamWriter is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.DdmServer is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.Chunk is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.ChunkHandler is a phantom class!
+Warning: java.io.BufferedReader is a phantom class!
+Warning: java.io.FileReader is a phantom class!
+Warning: java.util.concurrent.ExecutorService is a phantom class!
+Warning: java.security.cert.CertificateFactory is a phantom class!
+Warning: java.lang.ref.SoftReference is a phantom class!
+Warning: java.security.cert.CertificateException is a phantom class!
+Warning: java.lang.Appendable is a phantom class!
+Warning: java.io.DataInputStream is a phantom class!
+Warning: java.io.BufferedWriter is a phantom class!
+Warning: java.lang.NoSuchMethodException is a phantom class!
+Warning: java.util.logging.LogManager is a phantom class!
+Warning: dalvik.system.VMRuntime is a phantom class!
+Warning: java.lang.Thread$UncaughtExceptionHandler is a phantom class!
+Warning: java.lang.reflect.Method is a phantom class!
+Warning: java.util.TimeZone is a phantom class!
+Warning: org.apache.harmony.luni.internal.util.TimezoneGetter is a phantom class!
+Warning: java.lang.reflect.Modifier is a phantom class!
+Warning: dalvik.system.BlockGuard$BlockGuardPolicyException is a phantom class!
+Warning: java.nio.charset.CoderResult is a phantom class!
+Warning: java.nio.charset.Charset is a phantom class!
+Warning: java.nio.charset.IllegalCharsetNameException is a phantom class!
+Warning: java.nio.CharBuffer is a phantom class!
+Warning: java.nio.charset.CharsetEncoder is a phantom class!
+Warning: java.nio.charset.UnsupportedCharsetException is a phantom class!
+Warning: java.util.concurrent.CopyOnWriteArrayList is a phantom class!
+Warning: libcore.icu.ICU is a phantom class!
+Warning: java.util.AbstractList is a phantom class!
+Warning: java.util.RandomAccess is a phantom class!
+Warning: java.io.StreamTokenizer is a phantom class!
+Warning: java.util.concurrent.Executor is a phantom class!
+Warning: java.util.Date is a phantom class!
+Warning: libcore.util.ZoneInfoDB is a phantom class!
+Warning: java.util.concurrent.Executors is a phantom class!
+Warning: java.util.concurrent.ConcurrentLinkedQueue is a phantom class!
+Warning: dalvik.system.SocketTagger is a phantom class!
+Warning: java.net.SocketException is a phantom class!
+Warning: java.lang.reflect.InvocationTargetException is a phantom class!
+Warning: java.util.logging.Logger is a phantom class!
+Warning: java.util.logging.Handler is a phantom class!
+Warning: java.util.logging.Level is a phantom class!
+Warning: java.lang.annotation.Annotation is a phantom class!
+Warning: java.lang.annotation.Target is a phantom class!
+Warning: java.lang.annotation.Retention is a phantom class!
+Warning: java.io.DataOutputStream is a phantom class!
+Warning: java.util.concurrent.CountDownLatch is a phantom class!
+Warning: java.io.BufferedOutputStream is a phantom class!
+Warning: java.lang.reflect.Constructor is a phantom class!
+Warning: java.nio.ByteOrder is a phantom class!
+Warning: libcore.io.OsConstants is a phantom class!
+Warning: libcore.io.Os is a phantom class!
+Warning: libcore.io.ErrnoException is a phantom class!
+Warning: java.util.LinkedList is a phantom class!
+Warning: libcore.io.StructStat is a phantom class!
+Warning: libcore.io.Libcore is a phantom class!
+Warning: java.net.SocketAddress is a phantom class!
+Warning: java.net.InetSocketAddress is a phantom class!
+Warning: java.net.Proxy$Type is a phantom class!
+Warning: java.net.Proxy is a phantom class!
+Warning: java.lang.InstantiationException is a phantom class!
+Warning: java.net.InetAddress is a phantom class!
+Warning: java.net.ProxySelector is a phantom class!
+Warning: java.net.URI is a phantom class!
+Warning: dalvik.system.profiler.HprofData is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicBoolean is a phantom class!
+Warning: java.lang.ThreadGroup is a phantom class!
+Warning: java.lang.AutoCloseable is a phantom class!
+Warning: dalvik.system.profiler.SamplingProfiler is a phantom class!
+Warning: java.util.concurrent.ThreadFactory is a phantom class!
+Warning: libcore.io.IoUtils is a phantom class!
+Warning: dalvik.system.profiler.BinaryHprofWriter is a phantom class!
+Warning: dalvik.system.profiler.SamplingProfiler$ThreadSet is a phantom class!
+Warning: java.util.concurrent.ThreadPoolExecutor is a phantom class!
+Warning: java.util.concurrent.FutureTask is a phantom class!
+Warning: java.util.concurrent.TimeoutException is a phantom class!
+Warning: java.util.concurrent.Callable is a phantom class!
+Warning: java.util.concurrent.BlockingQueue is a phantom class!
+Warning: java.util.concurrent.LinkedBlockingQueue is a phantom class!
+Warning: java.util.concurrent.ExecutionException is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.DdmVmInternal is a phantom class!
+Warning: dalvik.system.DalvikLogHandler is a phantom class!
+Warning: java.util.logging.LogRecord is a phantom class!
+Warning: java.util.logging.Formatter is a phantom class!
+Warning: dalvik.system.DalvikLogging is a phantom class!
+Warning: java.util.Formatter is a phantom class!
+Warning: java.nio.charset.CodingErrorAction is a phantom class!
+Warning: java.nio.charset.CharsetDecoder is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantReadWriteLock is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantReadWriteLock$WriteLock is a phantom class!
+Warning: java.util.Comparator is a phantom class!
+Warning: java.nio.channels.FileChannel is a phantom class!
+Warning: javax.microedition.khronos.egl.EGL10 is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLSurface is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLConfig is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLDisplay is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLContext is a phantom class!
+Warning: java.io.InputStreamReader is a phantom class!
+Warning: javax.microedition.khronos.egl.EGL is a phantom class!
+Warning: com.google.android.gles_jni.EGLImpl is a phantom class!
+Warning: java.util.zip.CheckedInputStream is a phantom class!
+Warning: java.util.zip.Checksum is a phantom class!
+Warning: java.io.FileWriter is a phantom class!
+Warning: java.util.zip.CRC32 is a phantom class!
+Warning: dalvik.system.PathClassLoader is a phantom class!
+Warning: java.net.URL is a phantom class!
+Warning: java.util.EnumMap is a phantom class!
+Warning: java.net.Inet4Address is a phantom class!
+Warning: java.net.Inet6Address is a phantom class!
+Warning: java.util.ArrayDeque is a phantom class!
+Warning: java.util.concurrent.CancellationException is a phantom class!
+Warning: java.util.Calendar is a phantom class!
+Warning: java.io.Closeable is a phantom class!
+Warning: java.util.zip.GZIPInputStream is a phantom class!
+Warning: com.google.android.collect.Maps is a phantom class!
+Warning: java.net.InterfaceAddress is a phantom class!
+Warning: java.lang.Package is a phantom class!
+Warning: java.util.BitSet is a phantom class!
+Warning: java.util.StringTokenizer is a phantom class!
+Warning: java.text.DecimalFormat is a phantom class!
+Warning: android.R$styleable is a phantom class!
+Warning: com.google.android.collect.Lists is a phantom class!
+Warning: java.text.DateFormat is a phantom class!
+Warning: java.util.GregorianCalendar is a phantom class!
+Warning: java.util.Stack is a phantom class!
+Warning: java.net.ServerSocket is a phantom class!
+Warning: com.android.internal.telephony.gsm.GSMPhone$1 is a phantom class!
+Warning: java.lang.StringIndexOutOfBoundsException is a phantom class!
+Warning: java.text.ParseException is a phantom class!
+Warning: java.util.Queue is a phantom class!
+Warning: java.text.BreakIterator is a phantom class!
+Warning: java.text.SimpleDateFormat is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicReference is a phantom class!
+Warning: java.util.concurrent.ConcurrentHashMap is a phantom class!
+Warning: libcore.icu.TimeZones is a phantom class!
+Warning: javax.sip.address.AddressFactory is a phantom class!
+Warning: javax.sip.address.URI is a phantom class!
+Warning: javax.sip.SipFactory is a phantom class!
+Warning: javax.sip.address.Address is a phantom class!
+Warning: javax.sip.InvalidArgumentException is a phantom class!
+Warning: javax.sip.address.SipURI is a phantom class!
+Warning: javax.sip.PeerUnavailableException is a phantom class!
+Warning: java.io.ObjectStreamException is a phantom class!
+Warning: javax.sip.SipException is a phantom class!
+Warning: java.util.NoSuchElementException is a phantom class!
+Warning: java.nio.charset.Charsets is a phantom class!
+Warning: java.util.Vector is a phantom class!
+Warning: java.net.URLDecoder is a phantom class!
+Warning: java.io.ObjectInput is a phantom class!
+Warning: java.security.cert.X509Certificate is a phantom class!
+Warning: libcore.net.MimeUtils is a phantom class!
+Warning: org.apache.harmony.security.provider.cert.X509CertImpl is a phantom class!
+Warning: java.net.MalformedURLException is a phantom class!
+Warning: junit.framework.Assert is a phantom class!
+Warning: java.io.Externalizable is a phantom class!
+Warning: java.io.ObjectOutput is a phantom class!
+Warning: java.io.FilenameFilter is a phantom class!
+Warning: java.security.KeyPairGenerator is a phantom class!
+Warning: java.security.KeyPair is a phantom class!
+Warning: com.android.org.bouncycastle.util.encoders.Base64 is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.ASN1ObjectIdentifier is a phantom class!
+Warning: com.android.org.bouncycastle.jce.netscape.NetscapeCertRequest is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.DERObjectIdentifier is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.pkcs.PKCSObjectIdentifiers is a phantom class!
+Warning: java.security.PrivateKey is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.DERObject is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.x509.AlgorithmIdentifier is a phantom class!
+Warning: org.json.JSONException is a phantom class!
+Warning: org.json.JSONObject is a phantom class!
+Warning: org.json.JSONStringer is a phantom class!
+Warning: org.json.JSONArray is a phantom class!
+Warning: org.apache.harmony.xnet.provider.jsse.NativeCrypto is a phantom class!
+Warning: java.util.SortedSet is a phantom class!
+Warning: java.util.TreeSet is a phantom class!
+Warning: java.io.CharArrayWriter is a phantom class!
+Warning: java.lang.Character$UnicodeBlock is a phantom class!
+Warning: com.android.org.bouncycastle.openssl.PEMWriter is a phantom class!
+Warning: com.android.org.bouncycastle.openssl.PEMReader is a phantom class!
+Warning: java.lang.ref.ReferenceQueue is a phantom class!
+Warning: java.util.ListIterator is a phantom class!
+Warning: java.lang.ref.Reference is a phantom class!
+Warning: libcore.io.Base64 is a phantom class!
+Warning: java.util.Timer is a phantom class!
+Warning: java.util.TimerTask is a phantom class!
+Warning: java.net.ProtocolException is a phantom class!
+Warning: java.security.Principal is a phantom class!
+Warning: javax.security.auth.x500.X500Principal is a phantom class!
+Warning: org.apache.harmony.xnet.provider.jsse.TrustedCertificateStore is a phantom class!
+Warning: libcore.util.Objects is a phantom class!
+Warning: java.nio.FloatBuffer is a phantom class!
+Warning: javax.net.ssl.SSLSession is a phantom class!
+Warning: java.io.InterruptedIOException is a phantom class!
+Warning: android.annotation.TargetApi is a phantom class!
+Warning: android.app.ActivityOptions is a phantom class!
+Warning: android.app.AppOpsManager is a phantom class!
+Warning: android.app.Notification$Action$Builder is a phantom class!
+Warning: android.app.Notification$Action is a phantom class!
+Warning: android.app.Notification$BigPictureStyle is a phantom class!
+Warning: android.app.Notification$BigTextStyle is a phantom class!
+Warning: java.text.NumberFormat is a phantom class!
+Warning: android.app.Notification$InboxStyle is a phantom class!
+Warning: android.app.Notification$MediaStyle is a phantom class!
+Warning: android.app.RemoteInput$Builder is a phantom class!
+Warning: android.app.RemoteInput is a phantom class!
+Warning: android.app.SharedElementCallback is a phantom class!
+Warning: android.graphics.Outline is a phantom class!
+Warning: android.graphics.pdf.PdfDocument$Page is a phantom class!
+Warning: android.graphics.pdf.PdfDocument$PageInfo is a phantom class!
+Warning: android.hardware.display.DisplayManager is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$AuthenticationCallback is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$AuthenticationResult is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$CryptoObject is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager is a phantom class!
+Warning: android.media.AudioAttributes$Builder is a phantom class!
+Warning: android.media.AudioAttributes is a phantom class!
+Warning: android.media.MediaDescription$Builder is a phantom class!
+Warning: android.media.MediaDescription is a phantom class!
+Warning: android.media.MediaMetadata$Builder is a phantom class!
+Warning: android.media.MediaMetadata is a phantom class!
+Warning: android.media.MediaMetadataEditor is a phantom class!
+Warning: android.media.MediaRouter$Callback is a phantom class!
+Warning: android.media.MediaRouter$RouteCategory is a phantom class!
+Warning: android.media.MediaRouter$RouteGroup is a phantom class!
+Warning: android.media.MediaRouter$RouteInfo is a phantom class!
+Warning: android.media.MediaRouter$UserRouteInfo is a phantom class!
+Warning: android.media.MediaRouter$VolumeCallback is a phantom class!
+Warning: android.media.MediaRouter is a phantom class!
+Warning: android.media.Rating is a phantom class!
+Warning: android.media.RemoteControlClient$OnGetPlaybackPositionListener is a phantom class!
+Warning: android.media.RemoteControlClient$OnMetadataUpdateListener is a phantom class!
+Warning: android.media.RemoteControlClient$OnPlaybackPositionUpdateListener is a phantom class!
+Warning: android.media.VolumeProvider is a phantom class!
+Warning: android.media.session.MediaController$Callback is a phantom class!
+Warning: android.media.session.MediaController$PlaybackInfo is a phantom class!
+Warning: android.media.session.MediaController$TransportControls is a phantom class!
+Warning: android.media.session.MediaController is a phantom class!
+Warning: android.media.session.MediaSession$Callback is a phantom class!
+Warning: android.media.session.MediaSession$QueueItem is a phantom class!
+Warning: android.media.session.MediaSession$Token is a phantom class!
+Warning: android.media.session.MediaSession is a phantom class!
+Warning: android.media.session.PlaybackState$Builder is a phantom class!
+Warning: android.media.session.PlaybackState$CustomAction$Builder is a phantom class!
+Warning: android.media.session.PlaybackState$CustomAction is a phantom class!
+Warning: android.media.session.PlaybackState is a phantom class!
+Warning: javax.net.ssl.SSLSocket is a phantom class!
+Warning: javax.net.ssl.SSLPeerUnverifiedException is a phantom class!
+Warning: javax.security.cert.X509Certificate is a phantom class!
+Warning: javax.net.ssl.SSLSessionContext is a phantom class!
+Warning: android.os.CancellationSignal$OnCancelListener is a phantom class!
+Warning: android.os.CancellationSignal is a phantom class!
+Warning: android.os.OperationCanceledException is a phantom class!
+Warning: android.os.Trace is a phantom class!
+Warning: android.print.PageRange is a phantom class!
+Warning: android.print.PrintAttributes$Builder is a phantom class!
+Warning: android.print.PrintAttributes$MediaSize is a phantom class!
+Warning: android.print.PrintAttributes is a phantom class!
+Warning: android.print.PrintDocumentAdapter$LayoutResultCallback is a phantom class!
+Warning: android.print.PrintDocumentAdapter$WriteResultCallback is a phantom class!
+Warning: android.print.PrintDocumentAdapter is a phantom class!
+Warning: android.print.PrintDocumentInfo$Builder is a phantom class!
+Warning: android.print.PrintDocumentInfo is a phantom class!
+Warning: android.print.PrintJob is a phantom class!
+Warning: android.print.PrintManager is a phantom class!
+Warning: android.print.pdf.PrintedPdfDocument is a phantom class!
+Warning: android.provider.DocumentsContract is a phantom class!
+Warning: java.io.FileFilter is a phantom class!
+Warning: java.util.zip.ZipFile is a phantom class!
+Warning: java.io.RandomAccessFile is a phantom class!
+Warning: java.util.zip.ZipException is a phantom class!
+Warning: android.transition.Transition is a phantom class!
+Warning: android.transition.Transition$EpicenterCallback is a phantom class!
+Warning: javax.crypto.Cipher is a phantom class!
+Warning: javax.crypto.Mac is a phantom class!
+Warning: java.security.Signature is a phantom class!
+Warning: android.view.ViewTreeObserver$OnWindowAttachListener is a phantom class!
+Warning: android.view.ViewTreeObserver$OnWindowFocusChangeListener is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeProvider is a phantom class!
+Warning: android.view.View$OnApplyWindowInsetsListener is a phantom class!
+Warning: android.view.WindowInsets is a phantom class!
+Warning: android.view.SearchEvent is a phantom class!
+Warning: android.view.ActionProvider$VisibilityListener is a phantom class!
+Warning: org.xml.sax.SAXNotSupportedException is a phantom class!
+Warning: org.xml.sax.SAXNotRecognizedException is a phantom class!
+Warning: org.ccil.cowan.tagsoup.HTMLSchema is a phantom class!
+Warning: org.ccil.cowan.tagsoup.Parser is a phantom class!
+Warning: org.xml.sax.Locator is a phantom class!
+Warning: org.xml.sax.Attributes is a phantom class!
+Warning: android.transition.TransitionManager is a phantom class!
+Warning: android.transition.TransitionSet is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$AccessibilityAction is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$CollectionInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$CollectionItemInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$RangeInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityWindowInfo is a phantom class!
+Warning: android.view.animation.PathInterpolator is a phantom class!
+Warning: java.math.BigDecimal is a phantom class!
+Warning: android.widget.ThemedSpinnerAdapter is a phantom class!
+Warning: dalvik.system.DexFile is a phantom class!
+Warning: java.lang.annotation.Documented is a phantom class!
+Warning: java.lang.annotation.ElementType is a phantom class!
+Warning: java.lang.annotation.RetentionPolicy is a phantom class!
+Warning: java.net.ConnectException is a phantom class!
+Warning: java.util.Hashtable is a phantom class!
+Warning: java.util.Properties is a phantom class!
+Warning: java.util.Scanner is a phantom class!
+Warning: java.util.concurrent.locks.Condition is a phantom class!
+Warning: java.util.concurrent.locks.Lock is a phantom class!
+Warning: java.util.zip.ZipOutputStream is a phantom class!
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.view.Menu, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.view.MenuItem, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.widget.AdapterView, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.content.Context, because it is abstract and cannot substitute with subclass
+[main] INFO soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Generated main method:
+    public static void dummyMainMethod(java.lang.String[])
+    {
+        java.lang.String[] $r0;
+        int $i0;
+        com.example.hussienalrubaye.webview.ServiceNotification $r1;
+        android.content.Intent $r2, $r3, $r17;
+        com.example.hussienalrubaye.webview.SubResources $r4;
+        android.os.Bundle $r5, $r7, $r11, $r15;
+        boolean $z0, $z1, $z2, $z3, $z4, $z5, $z6, $z7, $z8, $z9, $z10;
+        com.example.hussienalrubaye.webview.MainActivity $r6;
+        android.view.KeyEvent $r8;
+        com.example.hussienalrubaye.webview.MainActivity$1 $r9;
+        com.example.hussienalrubaye.webview.ResourcesName $r10;
+        com.example.hussienalrubaye.webview.ResourcesName$1 $r12;
+        android.view.View $r13;
+        com.example.hussienalrubaye.webview.welcomeActivity $r14;
+        com.example.hussienalrubaye.webview.MyBroadcastReceiver $r16;
+
+        $r0 := @parameter0: java.lang.String[];
+
+        $i0 = 0;
+
+     label01:
+        if $i0 == 0 goto label08;
+
+        $r1 = new com.example.hussienalrubaye.webview.ServiceNotification;
+
+        specialinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void <init>()>();
+
+     label02:
+        if $i0 == 1 goto label03;
+
+        if $i0 == 2 goto label02;
+
+     label03:
+        if $i0 == 3 goto label06;
+
+     label04:
+        if $i0 == 4 goto label05;
+
+        $r2 = new android.content.Intent;
+
+        specialinvoke $r2.<android.content.Intent: void <init>()>();
+
+        virtualinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void onHandleIntent(android.content.Intent)>($r2);
+
+        $r2 = null;
+
+     label05:
+        if $i0 == 5 goto label04;
+
+     label06:
+        if $i0 == 6 goto label07;
+
+        $r3 = new android.content.Intent;
+
+        specialinvoke $r3.<android.content.Intent: void <init>()>();
+
+        virtualinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void onHandleIntent(android.content.Intent)>($r3);
+
+        $r3 = null;
+
+     label07:
+        if $i0 == 7 goto label06;
+
+        if $i0 == 8 goto label08;
+
+        if $i0 == 9 goto label06;
+
+     label08:
+        if $i0 == 10 goto label14;
+
+        $r4 = new com.example.hussienalrubaye.webview.SubResources;
+
+        specialinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: void <init>()>();
+
+        if $i0 == 11 goto label14;
+
+        $r5 = new android.os.Bundle;
+
+        specialinvoke $r5.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: void onCreate(android.os.Bundle)>($r5);
+
+        $r5 = null;
+
+     label09:
+        if $i0 == 12 goto label13;
+
+     label10:
+        if $i0 == 13 goto label11;
+
+        $z0 = virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label11:
+        if $i0 == 14 goto label12;
+
+        $z1 = virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label12:
+        if $i0 == 15 goto label10;
+
+     label13:
+        if $i0 == 16 goto label09;
+
+        if $i0 == 17 goto label14;
+
+        if $i0 == 18 goto label09;
+
+     label14:
+        if $i0 == 20 goto label23;
+
+        $r6 = new com.example.hussienalrubaye.webview.MainActivity;
+
+        specialinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void <init>()>();
+
+        if $i0 == 21 goto label23;
+
+        $r7 = new android.os.Bundle;
+
+        specialinvoke $r7.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onCreate(android.os.Bundle)>($r7);
+
+        $r7 = null;
+
+     label15:
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onResume()>();
+
+        if $i0 == 22 goto label22;
+
+     label16:
+        if $i0 == 23 goto label17;
+
+        $z2 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label17:
+        if $i0 == 24 goto label18;
+
+        $z3 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label18:
+        if $i0 == 25 goto label19;
+
+        $r8 = new android.view.KeyEvent;
+
+        specialinvoke $r8.<android.view.KeyEvent: void <init>(int,int)>(0, 0);
+
+        $z4 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onKeyDown(int,android.view.KeyEvent)>(0, $r8);
+
+        $r8 = null;
+
+     label19:
+        $r9 = new com.example.hussienalrubaye.webview.MainActivity$1;
+
+        specialinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: void <init>(com.example.hussienalrubaye.webview.MainActivity)>($r6);
+
+        if $i0 == 26 goto label20;
+
+        $z5 = virtualinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: boolean onQueryTextSubmit(java.lang.String)>("");
+
+     label20:
+        if $i0 == 27 goto label21;
+
+        $z6 = virtualinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: boolean onQueryTextChange(java.lang.String)>("");
+
+     label21:
+        if $i0 == 28 goto label16;
+
+     label22:
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onPause()>();
+
+        if $i0 == 29 goto label15;
+
+        if $i0 == 30 goto label23;
+
+        if $i0 == 31 goto label15;
+
+     label23:
+        if $i0 == 33 goto label30;
+
+        $r10 = new com.example.hussienalrubaye.webview.ResourcesName;
+
+        specialinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: void <init>()>();
+
+        if $i0 == 34 goto label30;
+
+        $r11 = new android.os.Bundle;
+
+        specialinvoke $r11.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: void onCreate(android.os.Bundle)>($r11);
+
+        $r11 = null;
+
+     label24:
+        if $i0 == 35 goto label29;
+
+     label25:
+        if $i0 == 36 goto label26;
+
+        $z7 = virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label26:
+        if $i0 == 37 goto label27;
+
+        $z8 = virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label27:
+        $r12 = new com.example.hussienalrubaye.webview.ResourcesName$1;
+
+        specialinvoke $r12.<com.example.hussienalrubaye.webview.ResourcesName$1: void <init>(com.example.hussienalrubaye.webview.ResourcesName)>($r10);
+
+        if $i0 == 38 goto label28;
+
+        $r13 = new android.view.View;
+
+        specialinvoke $r13.<android.view.View: void <init>(android.content.Context)>($r10);
+
+        virtualinvoke $r12.<com.example.hussienalrubaye.webview.ResourcesName$1: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>(null, $r13, 0, 0L);
+
+        $r13 = null;
+
+     label28:
+        if $i0 == 39 goto label25;
+
+     label29:
+        if $i0 == 40 goto label24;
+
+        if $i0 == 41 goto label30;
+
+        if $i0 == 42 goto label24;
+
+     label30:
+        if $i0 == 44 goto label36;
+
+        $r14 = new com.example.hussienalrubaye.webview.welcomeActivity;
+
+        specialinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: void <init>()>();
+
+        if $i0 == 45 goto label36;
+
+        $r15 = new android.os.Bundle;
+
+        specialinvoke $r15.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: void onCreate(android.os.Bundle)>($r15);
+
+        $r15 = null;
+
+     label31:
+        if $i0 == 46 goto label35;
+
+     label32:
+        if $i0 == 47 goto label33;
+
+        $z9 = virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label33:
+        if $i0 == 48 goto label34;
+
+        $z10 = virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label34:
+        if $i0 == 49 goto label32;
+
+     label35:
+        if $i0 == 50 goto label31;
+
+        if $i0 == 51 goto label36;
+
+        if $i0 == 52 goto label31;
+
+     label36:
+        if $i0 == 54 goto label38;
+
+        $r16 = new com.example.hussienalrubaye.webview.MyBroadcastReceiver;
+
+        specialinvoke $r16.<com.example.hussienalrubaye.webview.MyBroadcastReceiver: void <init>()>();
+
+        if $i0 == 55 goto label38;
+
+        $r17 = new android.content.Intent;
+
+        specialinvoke $r17.<android.content.Intent: void <init>()>();
+
+     label37:
+        virtualinvoke $r16.<com.example.hussienalrubaye.webview.MyBroadcastReceiver: void onReceive(android.content.Context,android.content.Intent)>(null, $r17);
+
+        $r17 = null;
+
+        if $i0 == 57 goto label37;
+
+     label38:
+        if $i0 == 58 goto label01;
+
+        return;
+    }
+
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 3.9 seconds.
+[Spark] Solution found in 3.9 seconds.
+Running incremental callback analysis for 6 components...
+Incremental callback analysis done.
+warning: Android API version '23' not available, using minApkVersion '15' instead
+Warning: java.lang.Throwable is a phantom class!
+Warning: java.lang.Void is a phantom class!
+Warning: java.lang.Float is a phantom class!
+Warning: java.lang.Double is a phantom class!
+Warning: java.lang.AssertionError is a phantom class!
+Warning: java.lang.Integer is a phantom class!
+Warning: java.lang.NullPointerException is a phantom class!
+Warning: java.lang.Character is a phantom class!
+Warning: java.lang.Long is a phantom class!
+Warning: java.lang.Short is a phantom class!
+Warning: java.lang.StringBuffer is a phantom class!
+Warning: java.lang.Boolean is a phantom class!
+Warning: java.lang.Class is a phantom class!
+Warning: java.lang.Byte is a phantom class!
+Warning: java.lang.NoClassDefFoundError is a phantom class!
+Warning: java.lang.IndexOutOfBoundsException is a phantom class!
+Warning: java.lang.StackOverflowError is a phantom class!
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.Error is a phantom class!
+Warning: java.lang.AbstractMethodError is a phantom class!
+Warning: java.lang.ClassCastException is a phantom class!
+Warning: java.lang.Runnable is a phantom class!
+Warning: java.lang.VerifyError is a phantom class!
+Warning: java.lang.NoSuchFieldError is a phantom class!
+Warning: java.lang.IllegalMonitorStateException is a phantom class!
+Warning: java.lang.Thread is a phantom class!
+Warning: java.lang.UnknownError is a phantom class!
+Warning: java.lang.InternalError is a phantom class!
+Warning: java.lang.ArithmeticException is a phantom class!
+Warning: java.lang.String is a phantom class!
+Warning: java.lang.NegativeArraySizeException is a phantom class!
+Warning: java.lang.ClassCircularityError is a phantom class!
+Warning: java.lang.Cloneable is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: java.lang.LinkageError is a phantom class!
+Warning: java.lang.IncompatibleClassChangeError is a phantom class!
+Warning: java.lang.NoSuchMethodError is a phantom class!
+Warning: java.lang.RuntimeException is a phantom class!
+Warning: java.lang.ArrayIndexOutOfBoundsException is a phantom class!
+Warning: java.lang.ThreadDeath is a phantom class!
+Warning: java.io.Serializable is a phantom class!
+Warning: java.lang.InstantiationError is a phantom class!
+Warning: java.lang.IllegalAccessError is a phantom class!
+Warning: java.lang.Object is a phantom class!
+Warning: java.lang.ClassNotFoundException is a phantom class!
+Warning: java.lang.ClassFormatError is a phantom class!
+Warning: java.lang.UnsatisfiedLinkError is a phantom class!
+Warning: java.lang.ArrayStoreException is a phantom class!
+Warning: java.lang.ExceptionInInitializerError is a phantom class!
+Warning: java.lang.OutOfMemoryError is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParser is a phantom class!
+Warning: java.io.IOException is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserException is a phantom class!
+Warning: java.lang.StringBuilder is a phantom class!
+Warning: java.lang.ClassLoader is a phantom class!
+Warning: java.lang.CharSequence is a phantom class!
+Warning: java.lang.Deprecated is a phantom class!
+Warning: java.io.FileOutputStream is a phantom class!
+Warning: java.io.FileInputStream is a phantom class!
+Warning: java.io.File is a phantom class!
+Warning: java.io.FileNotFoundException is a phantom class!
+Warning: java.io.InputStream is a phantom class!
+Warning: java.util.List is a phantom class!
+Warning: java.lang.IllegalStateException is a phantom class!
+Warning: java.util.Arrays is a phantom class!
+Warning: java.lang.System is a phantom class!
+Warning: java.io.ObjectInputStream is a phantom class!
+Warning: java.lang.NoSuchFieldException is a phantom class!
+Warning: java.io.ByteArrayInputStream is a phantom class!
+Warning: java.util.Map is a phantom class!
+Warning: java.lang.SecurityException is a phantom class!
+Warning: java.lang.IllegalAccessException is a phantom class!
+Warning: java.util.Set is a phantom class!
+Warning: java.lang.Exception is a phantom class!
+Warning: java.io.ByteArrayOutputStream is a phantom class!
+Warning: java.util.HashMap is a phantom class!
+Warning: java.util.ArrayList is a phantom class!
+Warning: java.io.ObjectOutputStream is a phantom class!
+Warning: java.io.OutputStream is a phantom class!
+Warning: java.util.Map$Entry is a phantom class!
+Warning: java.util.Iterator is a phantom class!
+Warning: java.lang.IllegalArgumentException is a phantom class!
+Warning: java.lang.reflect.Field is a phantom class!
+Warning: java.io.FileDescriptor is a phantom class!
+Warning: java.lang.UnsupportedOperationException is a phantom class!
+Warning: org.xml.sax.InputSource is a phantom class!
+Warning: org.apache.harmony.xml.ExpatReader is a phantom class!
+Warning: java.io.Reader is a phantom class!
+Warning: org.xmlpull.v1.XmlSerializer is a phantom class!
+Warning: org.xml.sax.XMLReader is a phantom class!
+Warning: org.kxml2.io.KXmlParser is a phantom class!
+Warning: java.io.StringReader is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserFactory is a phantom class!
+Warning: org.xml.sax.SAXException is a phantom class!
+Warning: org.xml.sax.ContentHandler is a phantom class!
+Warning: java.io.UnsupportedEncodingException is a phantom class!
+Warning: java.lang.Comparable is a phantom class!
+Warning: java.lang.CloneNotSupportedException is a phantom class!
+Warning: java.util.Locale is a phantom class!
+Warning: java.lang.ref.WeakReference is a phantom class!
+Warning: libcore.icu.NativePluralRules is a phantom class!
+Warning: java.util.Collection is a phantom class!
+Warning: java.util.Collections is a phantom class!
+Warning: java.util.LinkedHashSet is a phantom class!
+Warning: java.net.URLEncoder is a phantom class!
+Warning: java.net.URISyntaxException is a phantom class!
+Warning: java.util.HashSet is a phantom class!
+Warning: java.lang.NumberFormatException is a phantom class!
+Warning: java.util.Random is a phantom class!
+Warning: java.util.regex.Matcher is a phantom class!
+Warning: java.util.regex.Pattern is a phantom class!
+Warning: dalvik.system.BlockGuard is a phantom class!
+Warning: java.util.WeakHashMap is a phantom class!
+Warning: dalvik.system.BlockGuard$Policy is a phantom class!
+Warning: java.util.concurrent.TimeUnit is a phantom class!
+Warning: java.lang.InterruptedException is a phantom class!
+Warning: java.lang.ThreadLocal is a phantom class!
+Warning: java.nio.ShortBuffer is a phantom class!
+Warning: java.nio.ByteBuffer is a phantom class!
+Warning: java.nio.IntBuffer is a phantom class!
+Warning: java.nio.Buffer is a phantom class!
+Warning: java.lang.Math is a phantom class!
+Warning: java.security.SecureRandom is a phantom class!
+Warning: java.util.jar.Attributes is a phantom class!
+Warning: java.lang.IntegralToString is a phantom class!
+Warning: java.util.jar.Manifest is a phantom class!
+Warning: java.io.BufferedInputStream is a phantom class!
+Warning: java.util.Enumeration is a phantom class!
+Warning: java.util.jar.JarFile is a phantom class!
+Warning: java.security.spec.KeySpec is a phantom class!
+Warning: java.util.zip.ZipEntry is a phantom class!
+Warning: java.security.spec.X509EncodedKeySpec is a phantom class!
+Warning: java.security.KeyFactory is a phantom class!
+Warning: java.security.cert.Certificate is a phantom class!
+Warning: java.security.NoSuchAlgorithmException is a phantom class!
+Warning: java.security.cert.CertificateEncodingException is a phantom class!
+Warning: java.security.spec.InvalidKeySpecException is a phantom class!
+Warning: java.util.jar.JarEntry is a phantom class!
+Warning: java.security.PublicKey is a phantom class!
+Warning: java.net.Socket is a phantom class!
+Warning: java.net.DatagramSocket is a phantom class!
+Warning: java.lang.SecurityManager is a phantom class!
+Warning: java.io.PrintWriter is a phantom class!
+Warning: java.io.StringWriter is a phantom class!
+Warning: java.net.UnknownHostException is a phantom class!
+Warning: java.io.Writer is a phantom class!
+Warning: java.lang.reflect.Array is a phantom class!
+Warning: java.lang.Iterable is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicInteger is a phantom class!
+Warning: java.lang.Runtime is a phantom class!
+Warning: dalvik.system.CloseGuard is a phantom class!
+Warning: java.lang.StackTraceElement is a phantom class!
+Warning: java.io.PrintStream is a phantom class!
+Warning: dalvik.system.CloseGuard$Reporter is a phantom class!
+Warning: dalvik.system.VMDebug is a phantom class!
+Warning: java.lang.Enum is a phantom class!
+Warning: javax.microedition.khronos.opengles.GL is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantLock is a phantom class!
+Warning: java.util.LinkedHashMap is a phantom class!
+Warning: java.text.CollationKey is a phantom class!
+Warning: java.lang.Number is a phantom class!
+Warning: java.text.Collator is a phantom class!
+Warning: java.io.OutputStreamWriter is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.DdmServer is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.Chunk is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.ChunkHandler is a phantom class!
+Warning: java.io.BufferedReader is a phantom class!
+Warning: java.io.FileReader is a phantom class!
+Warning: java.util.concurrent.ExecutorService is a phantom class!
+Warning: java.security.cert.CertificateFactory is a phantom class!
+Warning: java.lang.ref.SoftReference is a phantom class!
+Warning: java.security.cert.CertificateException is a phantom class!
+Warning: java.lang.Appendable is a phantom class!
+Warning: java.io.DataInputStream is a phantom class!
+Warning: java.io.BufferedWriter is a phantom class!
+Warning: java.lang.NoSuchMethodException is a phantom class!
+Warning: java.util.logging.LogManager is a phantom class!
+Warning: dalvik.system.VMRuntime is a phantom class!
+Warning: java.lang.Thread$UncaughtExceptionHandler is a phantom class!
+Warning: java.lang.reflect.Method is a phantom class!
+Warning: java.util.TimeZone is a phantom class!
+Warning: org.apache.harmony.luni.internal.util.TimezoneGetter is a phantom class!
+Warning: java.lang.reflect.Modifier is a phantom class!
+Warning: dalvik.system.BlockGuard$BlockGuardPolicyException is a phantom class!
+Warning: java.nio.charset.CoderResult is a phantom class!
+Warning: java.nio.charset.Charset is a phantom class!
+Warning: java.nio.charset.IllegalCharsetNameException is a phantom class!
+Warning: java.nio.CharBuffer is a phantom class!
+Warning: java.nio.charset.CharsetEncoder is a phantom class!
+Warning: java.nio.charset.UnsupportedCharsetException is a phantom class!
+Warning: java.util.concurrent.CopyOnWriteArrayList is a phantom class!
+Warning: libcore.icu.ICU is a phantom class!
+Warning: java.util.AbstractList is a phantom class!
+Warning: java.util.RandomAccess is a phantom class!
+Warning: java.io.StreamTokenizer is a phantom class!
+Warning: java.util.concurrent.Executor is a phantom class!
+Warning: java.util.Date is a phantom class!
+Warning: libcore.util.ZoneInfoDB is a phantom class!
+Warning: java.util.concurrent.Executors is a phantom class!
+Warning: java.util.concurrent.ConcurrentLinkedQueue is a phantom class!
+Warning: dalvik.system.SocketTagger is a phantom class!
+Warning: java.net.SocketException is a phantom class!
+Warning: java.lang.reflect.InvocationTargetException is a phantom class!
+Warning: java.util.logging.Logger is a phantom class!
+Warning: java.util.logging.Handler is a phantom class!
+Warning: java.util.logging.Level is a phantom class!
+Warning: java.lang.annotation.Annotation is a phantom class!
+Warning: java.lang.annotation.Target is a phantom class!
+Warning: java.lang.annotation.Retention is a phantom class!
+Warning: java.io.DataOutputStream is a phantom class!
+Warning: java.util.concurrent.CountDownLatch is a phantom class!
+Warning: java.io.BufferedOutputStream is a phantom class!
+Warning: java.lang.reflect.Constructor is a phantom class!
+Warning: java.nio.ByteOrder is a phantom class!
+Warning: libcore.io.OsConstants is a phantom class!
+Warning: libcore.io.Os is a phantom class!
+Warning: libcore.io.ErrnoException is a phantom class!
+Warning: java.util.LinkedList is a phantom class!
+Warning: libcore.io.StructStat is a phantom class!
+Warning: libcore.io.Libcore is a phantom class!
+Warning: java.net.SocketAddress is a phantom class!
+Warning: java.net.InetSocketAddress is a phantom class!
+Warning: java.net.Proxy$Type is a phantom class!
+Warning: java.net.Proxy is a phantom class!
+Warning: java.lang.InstantiationException is a phantom class!
+Warning: java.net.InetAddress is a phantom class!
+Warning: java.net.ProxySelector is a phantom class!
+Warning: java.net.URI is a phantom class!
+Warning: dalvik.system.profiler.HprofData is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicBoolean is a phantom class!
+Warning: java.lang.ThreadGroup is a phantom class!
+Warning: java.lang.AutoCloseable is a phantom class!
+Warning: dalvik.system.profiler.SamplingProfiler is a phantom class!
+Warning: java.util.concurrent.ThreadFactory is a phantom class!
+Warning: libcore.io.IoUtils is a phantom class!
+Warning: dalvik.system.profiler.BinaryHprofWriter is a phantom class!
+Warning: dalvik.system.profiler.SamplingProfiler$ThreadSet is a phantom class!
+Warning: java.util.concurrent.ThreadPoolExecutor is a phantom class!
+Warning: java.util.concurrent.FutureTask is a phantom class!
+Warning: java.util.concurrent.TimeoutException is a phantom class!
+Warning: java.util.concurrent.Callable is a phantom class!
+Warning: java.util.concurrent.BlockingQueue is a phantom class!
+Warning: java.util.concurrent.LinkedBlockingQueue is a phantom class!
+Warning: java.util.concurrent.ExecutionException is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.DdmVmInternal is a phantom class!
+Warning: dalvik.system.DalvikLogHandler is a phantom class!
+Warning: java.util.logging.LogRecord is a phantom class!
+Warning: java.util.logging.Formatter is a phantom class!
+Warning: dalvik.system.DalvikLogging is a phantom class!
+Warning: java.util.Formatter is a phantom class!
+Warning: java.nio.charset.CodingErrorAction is a phantom class!
+Warning: java.nio.charset.CharsetDecoder is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantReadWriteLock is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantReadWriteLock$WriteLock is a phantom class!
+Warning: java.util.Comparator is a phantom class!
+Warning: java.nio.channels.FileChannel is a phantom class!
+Warning: javax.microedition.khronos.egl.EGL10 is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLSurface is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLConfig is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLDisplay is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLContext is a phantom class!
+Warning: java.io.InputStreamReader is a phantom class!
+Warning: javax.microedition.khronos.egl.EGL is a phantom class!
+Warning: com.google.android.gles_jni.EGLImpl is a phantom class!
+Warning: java.util.zip.CheckedInputStream is a phantom class!
+Warning: java.util.zip.Checksum is a phantom class!
+Warning: java.io.FileWriter is a phantom class!
+Warning: java.util.zip.CRC32 is a phantom class!
+Warning: dalvik.system.PathClassLoader is a phantom class!
+Warning: java.net.URL is a phantom class!
+Warning: java.util.EnumMap is a phantom class!
+Warning: java.net.Inet4Address is a phantom class!
+Warning: java.net.Inet6Address is a phantom class!
+Warning: java.util.ArrayDeque is a phantom class!
+Warning: java.util.concurrent.CancellationException is a phantom class!
+Warning: java.util.Calendar is a phantom class!
+Warning: java.io.Closeable is a phantom class!
+Warning: java.util.zip.GZIPInputStream is a phantom class!
+Warning: com.google.android.collect.Maps is a phantom class!
+Warning: java.net.InterfaceAddress is a phantom class!
+Warning: java.lang.Package is a phantom class!
+Warning: java.util.BitSet is a phantom class!
+Warning: java.util.StringTokenizer is a phantom class!
+Warning: java.text.DecimalFormat is a phantom class!
+Warning: android.R$styleable is a phantom class!
+Warning: com.google.android.collect.Lists is a phantom class!
+Warning: java.text.DateFormat is a phantom class!
+Warning: java.util.GregorianCalendar is a phantom class!
+Warning: java.util.Stack is a phantom class!
+Warning: java.net.ServerSocket is a phantom class!
+Warning: com.android.internal.telephony.gsm.GSMPhone$1 is a phantom class!
+Warning: java.lang.StringIndexOutOfBoundsException is a phantom class!
+Warning: java.text.ParseException is a phantom class!
+Warning: java.util.Queue is a phantom class!
+Warning: java.text.BreakIterator is a phantom class!
+Warning: java.text.SimpleDateFormat is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicReference is a phantom class!
+Warning: java.util.concurrent.ConcurrentHashMap is a phantom class!
+Warning: libcore.icu.TimeZones is a phantom class!
+Warning: javax.sip.address.AddressFactory is a phantom class!
+Warning: javax.sip.address.URI is a phantom class!
+Warning: javax.sip.SipFactory is a phantom class!
+Warning: javax.sip.address.Address is a phantom class!
+Warning: javax.sip.InvalidArgumentException is a phantom class!
+Warning: javax.sip.address.SipURI is a phantom class!
+Warning: javax.sip.PeerUnavailableException is a phantom class!
+Warning: java.io.ObjectStreamException is a phantom class!
+Warning: javax.sip.SipException is a phantom class!
+Warning: java.util.NoSuchElementException is a phantom class!
+Warning: java.nio.charset.Charsets is a phantom class!
+Warning: java.util.Vector is a phantom class!
+Warning: java.net.URLDecoder is a phantom class!
+Warning: java.io.ObjectInput is a phantom class!
+Warning: java.security.cert.X509Certificate is a phantom class!
+Warning: libcore.net.MimeUtils is a phantom class!
+Warning: org.apache.harmony.security.provider.cert.X509CertImpl is a phantom class!
+Warning: java.net.MalformedURLException is a phantom class!
+Warning: junit.framework.Assert is a phantom class!
+Warning: java.io.Externalizable is a phantom class!
+Warning: java.io.ObjectOutput is a phantom class!
+Warning: java.io.FilenameFilter is a phantom class!
+Warning: java.security.KeyPairGenerator is a phantom class!
+Warning: java.security.KeyPair is a phantom class!
+Warning: com.android.org.bouncycastle.util.encoders.Base64 is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.ASN1ObjectIdentifier is a phantom class!
+Warning: com.android.org.bouncycastle.jce.netscape.NetscapeCertRequest is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.DERObjectIdentifier is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.pkcs.PKCSObjectIdentifiers is a phantom class!
+Warning: java.security.PrivateKey is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.DERObject is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.x509.AlgorithmIdentifier is a phantom class!
+Warning: org.json.JSONException is a phantom class!
+Warning: org.json.JSONObject is a phantom class!
+Warning: org.json.JSONStringer is a phantom class!
+Warning: org.json.JSONArray is a phantom class!
+Warning: org.apache.harmony.xnet.provider.jsse.NativeCrypto is a phantom class!
+Warning: java.util.SortedSet is a phantom class!
+Warning: java.util.TreeSet is a phantom class!
+Warning: java.io.CharArrayWriter is a phantom class!
+Warning: java.lang.Character$UnicodeBlock is a phantom class!
+Warning: com.android.org.bouncycastle.openssl.PEMWriter is a phantom class!
+Warning: com.android.org.bouncycastle.openssl.PEMReader is a phantom class!
+Warning: java.lang.ref.ReferenceQueue is a phantom class!
+Warning: java.util.ListIterator is a phantom class!
+Warning: java.lang.ref.Reference is a phantom class!
+Warning: libcore.io.Base64 is a phantom class!
+Warning: java.util.Timer is a phantom class!
+Warning: java.util.TimerTask is a phantom class!
+Warning: java.net.ProtocolException is a phantom class!
+Warning: java.security.Principal is a phantom class!
+Warning: javax.security.auth.x500.X500Principal is a phantom class!
+Warning: org.apache.harmony.xnet.provider.jsse.TrustedCertificateStore is a phantom class!
+Warning: libcore.util.Objects is a phantom class!
+Warning: java.nio.FloatBuffer is a phantom class!
+Warning: javax.net.ssl.SSLSession is a phantom class!
+Warning: java.io.InterruptedIOException is a phantom class!
+Warning: android.annotation.TargetApi is a phantom class!
+Warning: android.app.ActivityOptions is a phantom class!
+Warning: android.app.AppOpsManager is a phantom class!
+Warning: android.app.Notification$Action$Builder is a phantom class!
+Warning: android.app.Notification$Action is a phantom class!
+Warning: android.app.Notification$BigPictureStyle is a phantom class!
+Warning: android.app.Notification$BigTextStyle is a phantom class!
+Warning: java.text.NumberFormat is a phantom class!
+Warning: android.app.Notification$InboxStyle is a phantom class!
+Warning: android.app.Notification$MediaStyle is a phantom class!
+Warning: android.app.RemoteInput$Builder is a phantom class!
+Warning: android.app.RemoteInput is a phantom class!
+Warning: android.app.SharedElementCallback is a phantom class!
+Warning: android.graphics.Outline is a phantom class!
+Warning: android.graphics.pdf.PdfDocument$Page is a phantom class!
+Warning: android.graphics.pdf.PdfDocument$PageInfo is a phantom class!
+Warning: android.hardware.display.DisplayManager is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$AuthenticationCallback is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$AuthenticationResult is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$CryptoObject is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager is a phantom class!
+Warning: android.media.AudioAttributes$Builder is a phantom class!
+Warning: android.media.AudioAttributes is a phantom class!
+Warning: android.media.MediaDescription$Builder is a phantom class!
+Warning: android.media.MediaDescription is a phantom class!
+Warning: android.media.MediaMetadata$Builder is a phantom class!
+Warning: android.media.MediaMetadata is a phantom class!
+Warning: android.media.MediaMetadataEditor is a phantom class!
+Warning: android.media.MediaRouter$Callback is a phantom class!
+Warning: android.media.MediaRouter$RouteCategory is a phantom class!
+Warning: android.media.MediaRouter$RouteGroup is a phantom class!
+Warning: android.media.MediaRouter$RouteInfo is a phantom class!
+Warning: android.media.MediaRouter$UserRouteInfo is a phantom class!
+Warning: android.media.MediaRouter$VolumeCallback is a phantom class!
+Warning: android.media.MediaRouter is a phantom class!
+Warning: android.media.Rating is a phantom class!
+Warning: android.media.RemoteControlClient$OnGetPlaybackPositionListener is a phantom class!
+Warning: android.media.RemoteControlClient$OnMetadataUpdateListener is a phantom class!
+Warning: android.media.RemoteControlClient$OnPlaybackPositionUpdateListener is a phantom class!
+Warning: android.media.VolumeProvider is a phantom class!
+Warning: android.media.session.MediaController$Callback is a phantom class!
+Warning: android.media.session.MediaController$PlaybackInfo is a phantom class!
+Warning: android.media.session.MediaController$TransportControls is a phantom class!
+Warning: android.media.session.MediaController is a phantom class!
+Warning: android.media.session.MediaSession$Callback is a phantom class!
+Warning: android.media.session.MediaSession$QueueItem is a phantom class!
+Warning: android.media.session.MediaSession$Token is a phantom class!
+Warning: android.media.session.MediaSession is a phantom class!
+Warning: android.media.session.PlaybackState$Builder is a phantom class!
+Warning: android.media.session.PlaybackState$CustomAction$Builder is a phantom class!
+Warning: android.media.session.PlaybackState$CustomAction is a phantom class!
+Warning: android.media.session.PlaybackState is a phantom class!
+Warning: javax.net.ssl.SSLSocket is a phantom class!
+Warning: javax.net.ssl.SSLPeerUnverifiedException is a phantom class!
+Warning: javax.security.cert.X509Certificate is a phantom class!
+Warning: javax.net.ssl.SSLSessionContext is a phantom class!
+Warning: android.os.CancellationSignal$OnCancelListener is a phantom class!
+Warning: android.os.CancellationSignal is a phantom class!
+Warning: android.os.OperationCanceledException is a phantom class!
+Warning: android.os.Trace is a phantom class!
+Warning: android.print.PageRange is a phantom class!
+Warning: android.print.PrintAttributes$Builder is a phantom class!
+Warning: android.print.PrintAttributes$MediaSize is a phantom class!
+Warning: android.print.PrintAttributes is a phantom class!
+Warning: android.print.PrintDocumentAdapter$LayoutResultCallback is a phantom class!
+Warning: android.print.PrintDocumentAdapter$WriteResultCallback is a phantom class!
+Warning: android.print.PrintDocumentAdapter is a phantom class!
+Warning: android.print.PrintDocumentInfo$Builder is a phantom class!
+Warning: android.print.PrintDocumentInfo is a phantom class!
+Warning: android.print.PrintJob is a phantom class!
+Warning: android.print.PrintManager is a phantom class!
+Warning: android.print.pdf.PrintedPdfDocument is a phantom class!
+Warning: android.provider.DocumentsContract is a phantom class!
+Warning: java.io.FileFilter is a phantom class!
+Warning: java.util.zip.ZipFile is a phantom class!
+Warning: java.io.RandomAccessFile is a phantom class!
+Warning: java.util.zip.ZipException is a phantom class!
+Warning: android.transition.Transition is a phantom class!
+Warning: android.transition.Transition$EpicenterCallback is a phantom class!
+Warning: javax.crypto.Cipher is a phantom class!
+Warning: javax.crypto.Mac is a phantom class!
+Warning: java.security.Signature is a phantom class!
+Warning: android.view.ViewTreeObserver$OnWindowAttachListener is a phantom class!
+Warning: android.view.ViewTreeObserver$OnWindowFocusChangeListener is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeProvider is a phantom class!
+Warning: android.view.View$OnApplyWindowInsetsListener is a phantom class!
+Warning: android.view.WindowInsets is a phantom class!
+Warning: android.view.SearchEvent is a phantom class!
+Warning: android.view.ActionProvider$VisibilityListener is a phantom class!
+Warning: org.xml.sax.SAXNotSupportedException is a phantom class!
+Warning: org.xml.sax.SAXNotRecognizedException is a phantom class!
+Warning: org.ccil.cowan.tagsoup.HTMLSchema is a phantom class!
+Warning: org.ccil.cowan.tagsoup.Parser is a phantom class!
+Warning: org.xml.sax.Locator is a phantom class!
+Warning: org.xml.sax.Attributes is a phantom class!
+Warning: android.transition.TransitionManager is a phantom class!
+Warning: android.transition.TransitionSet is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$AccessibilityAction is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$CollectionInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$CollectionItemInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$RangeInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityWindowInfo is a phantom class!
+Warning: android.view.animation.PathInterpolator is a phantom class!
+Warning: java.math.BigDecimal is a phantom class!
+Warning: android.widget.ThemedSpinnerAdapter is a phantom class!
+Warning: dalvik.system.DexFile is a phantom class!
+Warning: java.lang.annotation.Documented is a phantom class!
+Warning: java.lang.annotation.ElementType is a phantom class!
+Warning: java.lang.annotation.RetentionPolicy is a phantom class!
+Warning: java.net.ConnectException is a phantom class!
+Warning: java.util.Hashtable is a phantom class!
+Warning: java.util.Properties is a phantom class!
+Warning: java.util.Scanner is a phantom class!
+Warning: java.util.concurrent.locks.Condition is a phantom class!
+Warning: java.util.concurrent.locks.Lock is a phantom class!
+Warning: java.util.zip.ZipOutputStream is a phantom class!
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.view.Menu, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.view.MenuItem, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.widget.AdapterView, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.content.Context, because it is abstract and cannot substitute with subclass
+[main] INFO soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Generated main method:
+    public static void dummyMainMethod(java.lang.String[])
+    {
+        java.lang.String[] $r0;
+        int $i0;
+        com.example.hussienalrubaye.webview.ServiceNotification $r1;
+        android.content.Intent $r2, $r3, $r17;
+        com.example.hussienalrubaye.webview.SubResources $r4;
+        android.os.Bundle $r5, $r7, $r11, $r15;
+        boolean $z0, $z1, $z2, $z3, $z4, $z5, $z6, $z7, $z8, $z9, $z10;
+        com.example.hussienalrubaye.webview.MainActivity $r6;
+        android.view.KeyEvent $r8;
+        com.example.hussienalrubaye.webview.MainActivity$1 $r9;
+        com.example.hussienalrubaye.webview.ResourcesName $r10;
+        com.example.hussienalrubaye.webview.ResourcesName$1 $r12;
+        android.view.View $r13;
+        com.example.hussienalrubaye.webview.welcomeActivity $r14;
+        com.example.hussienalrubaye.webview.MyBroadcastReceiver $r16;
+
+        $r0 := @parameter0: java.lang.String[];
+
+        $i0 = 0;
+
+     label01:
+        if $i0 == 0 goto label08;
+
+        $r1 = new com.example.hussienalrubaye.webview.ServiceNotification;
+
+        specialinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void <init>()>();
+
+     label02:
+        if $i0 == 1 goto label03;
+
+        if $i0 == 2 goto label02;
+
+     label03:
+        if $i0 == 3 goto label06;
+
+     label04:
+        if $i0 == 4 goto label05;
+
+        $r2 = new android.content.Intent;
+
+        specialinvoke $r2.<android.content.Intent: void <init>()>();
+
+        virtualinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void onHandleIntent(android.content.Intent)>($r2);
+
+        $r2 = null;
+
+     label05:
+        if $i0 == 5 goto label04;
+
+     label06:
+        if $i0 == 6 goto label07;
+
+        $r3 = new android.content.Intent;
+
+        specialinvoke $r3.<android.content.Intent: void <init>()>();
+
+        virtualinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void onHandleIntent(android.content.Intent)>($r3);
+
+        $r3 = null;
+
+     label07:
+        if $i0 == 7 goto label06;
+
+        if $i0 == 8 goto label08;
+
+        if $i0 == 9 goto label06;
+
+     label08:
+        if $i0 == 10 goto label14;
+
+        $r4 = new com.example.hussienalrubaye.webview.SubResources;
+
+        specialinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: void <init>()>();
+
+        if $i0 == 11 goto label14;
+
+        $r5 = new android.os.Bundle;
+
+        specialinvoke $r5.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: void onCreate(android.os.Bundle)>($r5);
+
+        $r5 = null;
+
+     label09:
+        if $i0 == 12 goto label13;
+
+     label10:
+        if $i0 == 13 goto label11;
+
+        $z0 = virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label11:
+        if $i0 == 14 goto label12;
+
+        $z1 = virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label12:
+        if $i0 == 15 goto label10;
+
+     label13:
+        if $i0 == 16 goto label09;
+
+        if $i0 == 17 goto label14;
+
+        if $i0 == 18 goto label09;
+
+     label14:
+        if $i0 == 20 goto label23;
+
+        $r6 = new com.example.hussienalrubaye.webview.MainActivity;
+
+        specialinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void <init>()>();
+
+        if $i0 == 21 goto label23;
+
+        $r7 = new android.os.Bundle;
+
+        specialinvoke $r7.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onCreate(android.os.Bundle)>($r7);
+
+        $r7 = null;
+
+     label15:
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onResume()>();
+
+        if $i0 == 22 goto label22;
+
+     label16:
+        if $i0 == 23 goto label17;
+
+        $z2 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label17:
+        if $i0 == 24 goto label18;
+
+        $r8 = new android.view.KeyEvent;
+
+        specialinvoke $r8.<android.view.KeyEvent: void <init>(int,int)>(0, 0);
+
+        $z3 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onKeyDown(int,android.view.KeyEvent)>(0, $r8);
+
+        $r8 = null;
+
+     label18:
+        if $i0 == 25 goto label19;
+
+        $z4 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label19:
+        $r9 = new com.example.hussienalrubaye.webview.MainActivity$1;
+
+        specialinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: void <init>(com.example.hussienalrubaye.webview.MainActivity)>($r6);
+
+        if $i0 == 26 goto label20;
+
+        $z5 = virtualinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: boolean onQueryTextChange(java.lang.String)>("");
+
+     label20:
+        if $i0 == 27 goto label21;
+
+        $z6 = virtualinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: boolean onQueryTextSubmit(java.lang.String)>("");
+
+     label21:
+        if $i0 == 28 goto label16;
+
+     label22:
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onPause()>();
+
+        if $i0 == 29 goto label15;
+
+        if $i0 == 30 goto label23;
+
+        if $i0 == 31 goto label15;
+
+     label23:
+        if $i0 == 33 goto label30;
+
+        $r10 = new com.example.hussienalrubaye.webview.ResourcesName;
+
+        specialinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: void <init>()>();
+
+        if $i0 == 34 goto label30;
+
+        $r11 = new android.os.Bundle;
+
+        specialinvoke $r11.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: void onCreate(android.os.Bundle)>($r11);
+
+        $r11 = null;
+
+     label24:
+        if $i0 == 35 goto label29;
+
+     label25:
+        if $i0 == 36 goto label26;
+
+        $z7 = virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label26:
+        if $i0 == 37 goto label27;
+
+        $z8 = virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label27:
+        $r12 = new com.example.hussienalrubaye.webview.ResourcesName$1;
+
+        specialinvoke $r12.<com.example.hussienalrubaye.webview.ResourcesName$1: void <init>(com.example.hussienalrubaye.webview.ResourcesName)>($r10);
+
+        if $i0 == 38 goto label28;
+
+        $r13 = new android.view.View;
+
+        specialinvoke $r13.<android.view.View: void <init>(android.content.Context)>($r10);
+
+        virtualinvoke $r12.<com.example.hussienalrubaye.webview.ResourcesName$1: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>(null, $r13, 0, 0L);
+
+        $r13 = null;
+
+     label28:
+        if $i0 == 39 goto label25;
+
+     label29:
+        if $i0 == 40 goto label24;
+
+        if $i0 == 41 goto label30;
+
+        if $i0 == 42 goto label24;
+
+     label30:
+        if $i0 == 44 goto label36;
+
+        $r14 = new com.example.hussienalrubaye.webview.welcomeActivity;
+
+        specialinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: void <init>()>();
+
+        if $i0 == 45 goto label36;
+
+        $r15 = new android.os.Bundle;
+
+        specialinvoke $r15.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: void onCreate(android.os.Bundle)>($r15);
+
+        $r15 = null;
+
+     label31:
+        if $i0 == 46 goto label35;
+
+     label32:
+        if $i0 == 47 goto label33;
+
+        $z9 = virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label33:
+        if $i0 == 48 goto label34;
+
+        $z10 = virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label34:
+        if $i0 == 49 goto label32;
+
+     label35:
+        if $i0 == 50 goto label31;
+
+        if $i0 == 51 goto label36;
+
+        if $i0 == 52 goto label31;
+
+     label36:
+        if $i0 == 56 goto label38;
+
+        $r16 = new com.example.hussienalrubaye.webview.MyBroadcastReceiver;
+
+        specialinvoke $r16.<com.example.hussienalrubaye.webview.MyBroadcastReceiver: void <init>()>();
+
+        if $i0 == 57 goto label38;
+
+        $r17 = new android.content.Intent;
+
+        specialinvoke $r17.<android.content.Intent: void <init>()>();
+
+     label37:
+        virtualinvoke $r16.<com.example.hussienalrubaye.webview.MyBroadcastReceiver: void onReceive(android.content.Context,android.content.Intent)>(null, $r17);
+
+        $r17 = null;
+
+        if $i0 == 59 goto label37;
+
+     label38:
+        if $i0 == 60 goto label01;
+
+        return;
+    }
+
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.3 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 3.7 seconds.
+[Spark] Solution found in 3.7 seconds.
+Running incremental callback analysis for 0 components...
+Incremental callback analysis done.
+Found 20 callback methods for 6 components
+Found {res/layout/abc_select_dialog_material.xml=[2131558476 - android.widget.ListView], res/layout-v17/notification_template_part_time.xml=[2131558496 - android.widget.DateTimeView], res/layout-v21/abc_screen_toolbar.xml=[2131558460 - android.support.v7.internal.widget.ActionBarOverlayLayout, 2131558463 - android.support.v7.internal.widget.ActionBarContextView, 2131558461 - android.support.v7.internal.widget.ActionBarContainer, 2131558462 - android.support.v7.widget.Toolbar], res/layout/activity_welcome.xml=[2131558484 - android.widget.ImageView, -1 - android.widget.RelativeLayout], res/layout-v17/notification_template_lines.xml=[2131558500 - android.widget.TextView, 2131558498 - android.widget.TextView, 2131558499 - android.widget.LinearLayout, 2131558501 - android.widget.TextView, -1 - android.widget.LinearLayout, 2131558442 - android.widget.TextView, 2131558495 - android.widget.LinearLayout], res/layout/notification_template_big_media.xml=[2131558492 - android.widget.RelativeLayout, 2131558441 - android.widget.ImageView, 2131558493 - android.widget.LinearLayout, 2131558494 - android.widget.ImageView], res/layout-v17/notification_template_part_chronometer.xml=[2131558497 - android.widget.Chronometer], res/layout/item_resources_ame.xml=[2131558485 - android.widget.TextView, -1 - android.widget.LinearLayout], res/layout-v17/item_subresource_list.xml=[2131558488 - android.widget.TextView, 2131558486 - android.widget.TextView, 2131558489 - android.widget.ImageView, 2131558487 - android.widget.Button, -1 - android.widget.RelativeLayout], res/layout/abc_action_bar_view_list_nav_layout.xml=[-1 - android.widget.LinearLayout], res/layout/abc_screen_content_include.xml=[2131558400 - android.support.v7.internal.widget.ContentFrameLayout], res/layout/abc_popup_menu_item_layout.xml=[2131558455 - android.widget.TextView, -1 - android.support.v7.internal.view.menu.ListMenuItemView, 2131558442 - android.widget.TextView, -1 - android.widget.RelativeLayout], res/layout/abc_expanded_menu_layout.xml=[2131558453 - android.support.v7.internal.view.menu.ExpandedMenuView], res/layout/notification_template_part_chronometer.xml=[2131558497 - android.widget.Chronometer], res/layout/abc_dialog_title_material.xml=[2131558442 - android.widget.TextView, -1 - android.support.v7.internal.widget.FitWindowsLinearLayout], res/layout/notification_template_part_time.xml=[2131558496 - android.widget.DateTimeView], res/layout/abc_action_menu_item_layout.xml=[-1 - android.support.v7.internal.view.menu.ActionMenuItemView], res/layout/item_subresource_list.xml=[2131558488 - android.widget.TextView, 2131558486 - android.widget.TextView, 2131558489 - android.widget.ImageView, 2131558487 - android.widget.Button, -1 - android.widget.RelativeLayout], res/layout/select_dialog_singlechoice_material.xml=[16908308 - android.widget.CheckedTextView], res/layout/select_dialog_item_material.xml=[16908308 - android.widget.TextView], res/layout/select_dialog_multichoice_material.xml=[16908308 - android.widget.CheckedTextView], res/layout/abc_screen_toolbar.xml=[2131558460 - android.support.v7.internal.widget.ActionBarOverlayLayout, 2131558463 - android.support.v7.internal.widget.ActionBarContextView, 2131558461 - android.support.v7.internal.widget.ActionBarContainer, 2131558462 - android.support.v7.widget.Toolbar], res/layout/activity_resources_name.xml=[2131558482 - android.widget.ListView, -1 - android.widget.RelativeLayout], res/layout/abc_alert_dialog_material.xml=[-1 - android.support.v4.widget.Space, 16908314 - android.widget.Button, 16908315 - android.widget.Button, 16908313 - android.widget.Button, 2131558443 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, 2131558445 - android.widget.LinearLayout, 2131558444 - android.widget.LinearLayout, 16908299 - android.widget.TextView, 2131558451 - android.widget.FrameLayout, 2131558452 - android.widget.LinearLayout, 2131558450 - android.widget.FrameLayout, 2131558447 - android.widget.FrameLayout, 16908294 - android.widget.ImageView, 2131558449 - android.view.View, 2131558446 - android.support.v7.internal.widget.DialogTitle, 2131558448 - android.widget.ScrollView], res/layout/abc_action_mode_bar.xml=[-1 - android.support.v7.internal.widget.ActionBarContextView], res/layout-v17/notification_template_media.xml=[2131558502 - android.widget.ImageView, 2131558492 - android.widget.LinearLayout, 2131558441 - android.widget.ImageView, 2131558493 - android.widget.LinearLayout], res/layout/abc_action_mode_close_item_material.xml=[2131558435 - android.support.v7.internal.widget.TintImageView], res/layout/notification_media_action.xml=[2131558490 - android.widget.ImageButton], res/layout/abc_search_dropdown_item_icons_2line.xml=[16908309 - android.widget.TextView, 16908308 - android.widget.TextView, 16908295 - android.support.v7.internal.widget.TintImageView, 2131558464 - android.support.v7.internal.widget.TintImageView, 16908296 - android.support.v7.internal.widget.TintImageView, -1 - android.widget.RelativeLayout], res/layout-v17/activity_main.xml=[2131558477 - android.webkit.WebView, 2131558478 - android.widget.Button, 2131558479 - android.widget.Button, -1 - android.widget.LinearLayout, 2131558480 - android.widget.Button, 2131558481 - android.widget.Button, -1 - android.widget.RelativeLayout], res/layout-v17/abc_search_view.xml=[2131558468 - android.widget.LinearLayout, 2131558469 - android.support.v7.internal.widget.TintImageView, 2131558467 - android.support.v7.internal.widget.TintImageView, 2131558472 - android.support.v7.internal.widget.TintImageView, 2131558466 - android.widget.TextView, 2131558474 - android.support.v7.internal.widget.TintImageView, 2131558473 - android.widget.LinearLayout, 2131558475 - android.support.v7.internal.widget.TintImageView, 2131558470 - android.widget.LinearLayout, 2131558465 - android.widget.LinearLayout], res/layout-v17/notification_template_big_media.xml=[2131558492 - android.widget.RelativeLayout, 2131558441 - android.widget.ImageView, 2131558493 - android.widget.LinearLayout, 2131558494 - android.widget.ImageView], res/layout-v17/abc_alert_dialog_material.xml=[-1 - android.support.v4.widget.Space, 16908314 - android.widget.Button, 16908315 - android.widget.Button, 16908313 - android.widget.Button, 2131558443 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, 2131558445 - android.widget.LinearLayout, 2131558444 - android.widget.LinearLayout, 16908299 - android.widget.TextView, 2131558451 - android.widget.FrameLayout, 2131558452 - android.widget.LinearLayout, 2131558450 - android.widget.FrameLayout, 2131558447 - android.widget.FrameLayout, 16908294 - android.widget.ImageView, 2131558449 - android.view.View, 2131558446 - android.support.v7.internal.widget.DialogTitle, 2131558448 - android.widget.ScrollView], res/layout/abc_list_menu_item_layout.xml=[2131558455 - android.widget.TextView, -1 - android.support.v7.internal.view.menu.ListMenuItemView, 2131558442 - android.widget.TextView, -1 - android.widget.RelativeLayout], res/layout/abc_screen_simple_overlay_action_mode.xml=[2131558457 - android.support.v7.internal.widget.FitWindowsFrameLayout, 2131558458 - android.support.v7.internal.widget.ViewStubCompat], res/layout-v17/activity_resources_name.xml=[2131558482 - android.widget.ListView, -1 - android.widget.RelativeLayout], res/layout/abc_list_menu_item_checkbox.xml=[2131558454 - android.widget.CheckBox], res/layout-v17/item_resources_ame.xml=[2131558485 - android.widget.TextView, -1 - android.widget.LinearLayout], res/layout-v17/notification_template_big_media_narrow.xml=[2131558492 - android.widget.RelativeLayout, 2131558441 - android.widget.ImageView, 2131558493 - android.widget.LinearLayout, 2131558494 - android.widget.ImageView], res/layout/abc_list_menu_item_radio.xml=[2131558456 - android.widget.RadioButton], res/layout-v17/abc_dialog_title_material.xml=[2131558442 - android.widget.TextView, -1 - android.support.v7.internal.widget.FitWindowsLinearLayout], res/layout/abc_activity_chooser_view.xml=[2131558437 - android.widget.FrameLayout, 2131558438 - android.widget.ImageView, 2131558439 - android.widget.FrameLayout], res/layout/abc_screen_simple.xml=[2131558457 - android.support.v7.internal.widget.FitWindowsLinearLayout, 2131558458 - android.support.v7.internal.widget.ViewStubCompat], res/layout/abc_action_bar_up_container.xml=[-1 - android.widget.LinearLayout], res/layout/activity_main.xml=[2131558477 - android.webkit.WebView, 2131558478 - android.widget.Button, 2131558479 - android.widget.Button, -1 - android.widget.LinearLayout, 2131558480 - android.widget.Button, 2131558481 - android.widget.Button, -1 - android.widget.RelativeLayout], res/layout/abc_search_view.xml=[2131558468 - android.widget.LinearLayout, 2131558469 - android.support.v7.internal.widget.TintImageView, 2131558467 - android.support.v7.internal.widget.TintImageView, 2131558472 - android.support.v7.internal.widget.TintImageView, 2131558466 - android.widget.TextView, 2131558474 - android.support.v7.internal.widget.TintImageView, 2131558473 - android.widget.LinearLayout, 2131558475 - android.support.v7.internal.widget.TintImageView, 2131558470 - android.widget.LinearLayout, 2131558465 - android.widget.LinearLayout], res/layout/abc_activity_chooser_view_list_item.xml=[2131558440 - android.widget.LinearLayout, -1 - android.widget.LinearLayout, 2131558441 - android.widget.ImageView, 2131558442 - android.widget.TextView], res/layout/activity_sub_resources.xml=[2131558483 - android.widget.ListView, -1 - android.widget.RelativeLayout], res/layout/notification_template_media.xml=[2131558502 - android.widget.ImageView, 2131558492 - android.widget.LinearLayout, 2131558441 - android.widget.ImageView, 2131558493 - android.widget.LinearLayout], res/layout/abc_action_menu_layout.xml=[-1 - android.support.v7.widget.ActionMenuView], res/layout/notification_template_big_media_narrow.xml=[2131558492 - android.widget.RelativeLayout, 2131558441 - android.widget.ImageView, 2131558493 - android.widget.LinearLayout, 2131558494 - android.widget.ImageView], res/layout/abc_action_bar_title_item.xml=[2131558433 - android.widget.TextView, 2131558434 - android.widget.TextView, -1 - android.widget.LinearLayout], res/layout/notification_template_lines.xml=[2131558500 - android.widget.TextView, 2131558498 - android.widget.TextView, 2131558499 - android.widget.LinearLayout, 2131558501 - android.widget.TextView, -1 - android.widget.LinearLayout, 2131558442 - android.widget.TextView, 2131558495 - android.widget.LinearLayout], res/layout/notification_media_cancel_action.xml=[2131558491 - android.widget.ImageButton], res/layout/support_simple_spinner_dropdown_item.xml=[16908308 - android.widget.TextView], res/layout/abc_list_menu_item_icon.xml=[2131558441 - android.widget.ImageView]} layout controls
+Entry point calculation done.
+Created a SourceSinkManager with 89 sources, 128 sinks, and 20 callback methods.
+Running data flow analysis...
+Running data flow analysis on ../apk_copies//news.apk with 89 sources and 128 sinks...
+warning: Android API version '23' not available, using minApkVersion '15' instead
+Starting infoflow computation...
+[main] INFO soot.jimple.infoflow.Infoflow - Resetting Soot...
+Warning: java.lang.Object is a phantom class!
+Warning: java.lang.String is a phantom class!
+Warning: java.lang.Integer is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParser is a phantom class!
+Warning: java.io.IOException is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserException is a phantom class!
+Warning: java.lang.StringBuilder is a phantom class!
+Warning: java.lang.ClassLoader is a phantom class!
+Warning: java.lang.CharSequence is a phantom class!
+Warning: java.lang.Deprecated is a phantom class!
+Warning: java.io.FileOutputStream is a phantom class!
+Warning: java.io.FileInputStream is a phantom class!
+Warning: java.io.File is a phantom class!
+Warning: java.io.FileNotFoundException is a phantom class!
+Warning: java.io.InputStream is a phantom class!
+Warning: java.util.List is a phantom class!
+Warning: java.lang.Float is a phantom class!
+Warning: java.lang.IllegalStateException is a phantom class!
+Warning: java.util.Arrays is a phantom class!
+Warning: java.lang.System is a phantom class!
+Warning: java.io.ObjectInputStream is a phantom class!
+Warning: java.lang.NullPointerException is a phantom class!
+Warning: java.lang.NoSuchFieldException is a phantom class!
+Warning: java.io.ByteArrayInputStream is a phantom class!
+Warning: java.lang.Long is a phantom class!
+Warning: java.lang.Short is a phantom class!
+Warning: java.util.Map is a phantom class!
+Warning: java.lang.SecurityException is a phantom class!
+Warning: java.lang.Byte is a phantom class!
+Warning: java.lang.IllegalAccessException is a phantom class!
+Warning: java.util.Set is a phantom class!
+Warning: java.lang.Exception is a phantom class!
+Warning: java.io.Serializable is a phantom class!
+Warning: java.lang.Throwable is a phantom class!
+Warning: java.io.ByteArrayOutputStream is a phantom class!
+Warning: java.lang.Double is a phantom class!
+Warning: java.util.HashMap is a phantom class!
+Warning: java.lang.ClassCastException is a phantom class!
+Warning: java.util.ArrayList is a phantom class!
+Warning: java.lang.Boolean is a phantom class!
+Warning: java.io.ObjectOutputStream is a phantom class!
+Warning: java.io.OutputStream is a phantom class!
+Warning: java.util.Map$Entry is a phantom class!
+Warning: java.util.Iterator is a phantom class!
+Warning: java.lang.RuntimeException is a phantom class!
+Warning: java.lang.IllegalArgumentException is a phantom class!
+Warning: java.lang.reflect.Field is a phantom class!
+Warning: java.io.FileDescriptor is a phantom class!
+Warning: java.lang.Class is a phantom class!
+Warning: java.lang.ClassNotFoundException is a phantom class!
+Warning: java.lang.UnsupportedOperationException is a phantom class!
+Warning: org.xml.sax.InputSource is a phantom class!
+Warning: org.apache.harmony.xml.ExpatReader is a phantom class!
+Warning: java.io.Reader is a phantom class!
+Warning: java.lang.AssertionError is a phantom class!
+Warning: org.xmlpull.v1.XmlSerializer is a phantom class!
+Warning: org.xml.sax.XMLReader is a phantom class!
+Warning: org.kxml2.io.KXmlParser is a phantom class!
+Warning: java.io.StringReader is a phantom class!
+Warning: org.xmlpull.v1.XmlPullParserFactory is a phantom class!
+Warning: org.xml.sax.SAXException is a phantom class!
+Warning: org.xml.sax.ContentHandler is a phantom class!
+Warning: java.io.UnsupportedEncodingException is a phantom class!
+Warning: java.lang.Cloneable is a phantom class!
+Warning: java.lang.Comparable is a phantom class!
+Warning: java.lang.CloneNotSupportedException is a phantom class!
+Warning: java.util.Locale is a phantom class!
+Warning: java.lang.ref.WeakReference is a phantom class!
+Warning: libcore.icu.NativePluralRules is a phantom class!
+Warning: java.lang.Character is a phantom class!
+Warning: java.util.Collection is a phantom class!
+Warning: java.util.Collections is a phantom class!
+Warning: java.util.LinkedHashSet is a phantom class!
+Warning: java.net.URLEncoder is a phantom class!
+Warning: java.lang.IndexOutOfBoundsException is a phantom class!
+Warning: java.net.URISyntaxException is a phantom class!
+Warning: java.util.HashSet is a phantom class!
+Warning: java.lang.NumberFormatException is a phantom class!
+Warning: java.lang.Runnable is a phantom class!
+Warning: java.util.Random is a phantom class!
+Warning: java.util.regex.Matcher is a phantom class!
+Warning: java.lang.Thread is a phantom class!
+Warning: java.util.regex.Pattern is a phantom class!
+Warning: dalvik.system.BlockGuard is a phantom class!
+Warning: java.util.WeakHashMap is a phantom class!
+Warning: dalvik.system.BlockGuard$Policy is a phantom class!
+Warning: java.util.concurrent.TimeUnit is a phantom class!
+Warning: java.lang.InterruptedException is a phantom class!
+Warning: java.lang.ThreadLocal is a phantom class!
+Warning: java.nio.ShortBuffer is a phantom class!
+Warning: java.nio.ByteBuffer is a phantom class!
+Warning: java.nio.IntBuffer is a phantom class!
+Warning: java.nio.Buffer is a phantom class!
+Warning: java.lang.Math is a phantom class!
+Warning: java.lang.ArrayIndexOutOfBoundsException is a phantom class!
+Warning: java.security.SecureRandom is a phantom class!
+Warning: java.util.jar.Attributes is a phantom class!
+Warning: java.lang.IntegralToString is a phantom class!
+Warning: java.util.jar.Manifest is a phantom class!
+Warning: java.io.BufferedInputStream is a phantom class!
+Warning: java.util.Enumeration is a phantom class!
+Warning: java.util.jar.JarFile is a phantom class!
+Warning: java.security.spec.KeySpec is a phantom class!
+Warning: java.util.zip.ZipEntry is a phantom class!
+Warning: java.security.spec.X509EncodedKeySpec is a phantom class!
+Warning: java.security.KeyFactory is a phantom class!
+Warning: java.security.cert.Certificate is a phantom class!
+Warning: java.security.NoSuchAlgorithmException is a phantom class!
+Warning: java.security.cert.CertificateEncodingException is a phantom class!
+Warning: java.security.spec.InvalidKeySpecException is a phantom class!
+Warning: java.util.jar.JarEntry is a phantom class!
+Warning: java.security.PublicKey is a phantom class!
+Warning: java.net.Socket is a phantom class!
+Warning: java.net.DatagramSocket is a phantom class!
+Warning: java.lang.SecurityManager is a phantom class!
+Warning: java.io.PrintWriter is a phantom class!
+Warning: java.io.StringWriter is a phantom class!
+Warning: java.net.UnknownHostException is a phantom class!
+Warning: java.io.Writer is a phantom class!
+Warning: java.lang.reflect.Array is a phantom class!
+Warning: java.lang.Iterable is a phantom class!
+Warning: java.lang.StringBuffer is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicInteger is a phantom class!
+Warning: java.lang.Runtime is a phantom class!
+Warning: dalvik.system.CloseGuard is a phantom class!
+Warning: java.lang.StackTraceElement is a phantom class!
+Warning: java.io.PrintStream is a phantom class!
+Warning: dalvik.system.CloseGuard$Reporter is a phantom class!
+Warning: dalvik.system.VMDebug is a phantom class!
+Warning: java.lang.Enum is a phantom class!
+Warning: javax.microedition.khronos.opengles.GL is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantLock is a phantom class!
+Warning: java.util.LinkedHashMap is a phantom class!
+Warning: java.text.CollationKey is a phantom class!
+Warning: java.lang.Number is a phantom class!
+Warning: java.text.Collator is a phantom class!
+Warning: java.io.OutputStreamWriter is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.DdmServer is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.Chunk is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.ChunkHandler is a phantom class!
+Warning: java.io.BufferedReader is a phantom class!
+Warning: java.io.FileReader is a phantom class!
+Warning: java.lang.OutOfMemoryError is a phantom class!
+Warning: java.util.concurrent.ExecutorService is a phantom class!
+Warning: java.lang.NoSuchFieldError is a phantom class!
+Warning: java.security.cert.CertificateFactory is a phantom class!
+Warning: java.lang.ref.SoftReference is a phantom class!
+Warning: java.security.cert.CertificateException is a phantom class!
+Warning: java.lang.Appendable is a phantom class!
+Warning: java.io.DataInputStream is a phantom class!
+Warning: java.io.BufferedWriter is a phantom class!
+Warning: java.lang.NoSuchMethodException is a phantom class!
+Warning: java.util.logging.LogManager is a phantom class!
+Warning: dalvik.system.VMRuntime is a phantom class!
+Warning: java.lang.Thread$UncaughtExceptionHandler is a phantom class!
+Warning: java.lang.reflect.Method is a phantom class!
+Warning: java.util.TimeZone is a phantom class!
+Warning: org.apache.harmony.luni.internal.util.TimezoneGetter is a phantom class!
+Warning: java.lang.reflect.Modifier is a phantom class!
+Warning: dalvik.system.BlockGuard$BlockGuardPolicyException is a phantom class!
+Warning: java.nio.charset.CoderResult is a phantom class!
+Warning: java.nio.charset.Charset is a phantom class!
+Warning: java.nio.charset.IllegalCharsetNameException is a phantom class!
+Warning: java.nio.CharBuffer is a phantom class!
+Warning: java.nio.charset.CharsetEncoder is a phantom class!
+Warning: java.nio.charset.UnsupportedCharsetException is a phantom class!
+Warning: java.util.concurrent.CopyOnWriteArrayList is a phantom class!
+Warning: libcore.icu.ICU is a phantom class!
+Warning: java.util.AbstractList is a phantom class!
+Warning: java.util.RandomAccess is a phantom class!
+Warning: java.io.StreamTokenizer is a phantom class!
+Warning: java.util.concurrent.Executor is a phantom class!
+Warning: java.util.Date is a phantom class!
+Warning: libcore.util.ZoneInfoDB is a phantom class!
+Warning: java.util.concurrent.Executors is a phantom class!
+Warning: java.util.concurrent.ConcurrentLinkedQueue is a phantom class!
+Warning: dalvik.system.SocketTagger is a phantom class!
+Warning: java.net.SocketException is a phantom class!
+Warning: java.lang.Error is a phantom class!
+Warning: java.lang.reflect.InvocationTargetException is a phantom class!
+Warning: java.util.logging.Logger is a phantom class!
+Warning: java.util.logging.Handler is a phantom class!
+Warning: java.util.logging.Level is a phantom class!
+Warning: java.lang.ArrayStoreException is a phantom class!
+Warning: java.lang.annotation.Annotation is a phantom class!
+Warning: java.lang.annotation.Target is a phantom class!
+Warning: java.lang.annotation.Retention is a phantom class!
+Warning: java.io.DataOutputStream is a phantom class!
+Warning: java.util.concurrent.CountDownLatch is a phantom class!
+Warning: java.io.BufferedOutputStream is a phantom class!
+Warning: java.lang.AbstractMethodError is a phantom class!
+Warning: java.lang.reflect.Constructor is a phantom class!
+Warning: java.nio.ByteOrder is a phantom class!
+Warning: libcore.io.OsConstants is a phantom class!
+Warning: libcore.io.Os is a phantom class!
+Warning: libcore.io.ErrnoException is a phantom class!
+Warning: java.util.LinkedList is a phantom class!
+Warning: libcore.io.StructStat is a phantom class!
+Warning: libcore.io.Libcore is a phantom class!
+Warning: java.net.SocketAddress is a phantom class!
+Warning: java.net.InetSocketAddress is a phantom class!
+Warning: java.net.Proxy$Type is a phantom class!
+Warning: java.net.Proxy is a phantom class!
+Warning: java.lang.InstantiationException is a phantom class!
+Warning: java.net.InetAddress is a phantom class!
+Warning: java.net.ProxySelector is a phantom class!
+Warning: java.net.URI is a phantom class!
+Warning: dalvik.system.profiler.HprofData is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicBoolean is a phantom class!
+Warning: java.lang.ThreadGroup is a phantom class!
+Warning: java.lang.AutoCloseable is a phantom class!
+Warning: dalvik.system.profiler.SamplingProfiler is a phantom class!
+Warning: java.util.concurrent.ThreadFactory is a phantom class!
+Warning: libcore.io.IoUtils is a phantom class!
+Warning: dalvik.system.profiler.BinaryHprofWriter is a phantom class!
+Warning: dalvik.system.profiler.SamplingProfiler$ThreadSet is a phantom class!
+Warning: java.util.concurrent.ThreadPoolExecutor is a phantom class!
+Warning: java.util.concurrent.FutureTask is a phantom class!
+Warning: java.util.concurrent.TimeoutException is a phantom class!
+Warning: java.util.concurrent.Callable is a phantom class!
+Warning: java.util.concurrent.BlockingQueue is a phantom class!
+Warning: java.util.concurrent.LinkedBlockingQueue is a phantom class!
+Warning: java.util.concurrent.ExecutionException is a phantom class!
+Warning: org.apache.harmony.dalvik.ddmc.DdmVmInternal is a phantom class!
+Warning: dalvik.system.DalvikLogHandler is a phantom class!
+Warning: java.util.logging.LogRecord is a phantom class!
+Warning: java.util.logging.Formatter is a phantom class!
+Warning: dalvik.system.DalvikLogging is a phantom class!
+Warning: java.util.Formatter is a phantom class!
+Warning: java.nio.charset.CodingErrorAction is a phantom class!
+Warning: java.nio.charset.CharsetDecoder is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantReadWriteLock is a phantom class!
+Warning: java.util.concurrent.locks.ReentrantReadWriteLock$WriteLock is a phantom class!
+Warning: java.util.Comparator is a phantom class!
+Warning: java.nio.channels.FileChannel is a phantom class!
+Warning: java.lang.Void is a phantom class!
+Warning: javax.microedition.khronos.egl.EGL10 is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLSurface is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLConfig is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLDisplay is a phantom class!
+Warning: javax.microedition.khronos.egl.EGLContext is a phantom class!
+Warning: java.io.InputStreamReader is a phantom class!
+Warning: javax.microedition.khronos.egl.EGL is a phantom class!
+Warning: com.google.android.gles_jni.EGLImpl is a phantom class!
+Warning: java.util.zip.CheckedInputStream is a phantom class!
+Warning: java.util.zip.Checksum is a phantom class!
+Warning: java.io.FileWriter is a phantom class!
+Warning: java.util.zip.CRC32 is a phantom class!
+Warning: dalvik.system.PathClassLoader is a phantom class!
+Warning: java.net.URL is a phantom class!
+Warning: java.util.EnumMap is a phantom class!
+Warning: java.net.Inet4Address is a phantom class!
+Warning: java.net.Inet6Address is a phantom class!
+Warning: java.util.ArrayDeque is a phantom class!
+Warning: java.util.concurrent.CancellationException is a phantom class!
+Warning: java.util.Calendar is a phantom class!
+Warning: java.lang.NoSuchMethodError is a phantom class!
+Warning: java.io.Closeable is a phantom class!
+Warning: java.util.zip.GZIPInputStream is a phantom class!
+Warning: com.google.android.collect.Maps is a phantom class!
+Warning: java.net.InterfaceAddress is a phantom class!
+Warning: java.lang.Package is a phantom class!
+Warning: java.util.BitSet is a phantom class!
+Warning: java.util.StringTokenizer is a phantom class!
+Warning: java.text.DecimalFormat is a phantom class!
+Warning: java.lang.IncompatibleClassChangeError is a phantom class!
+Warning: android.R$styleable is a phantom class!
+Warning: com.google.android.collect.Lists is a phantom class!
+Warning: java.text.DateFormat is a phantom class!
+Warning: java.util.GregorianCalendar is a phantom class!
+Warning: java.util.Stack is a phantom class!
+Warning: java.net.ServerSocket is a phantom class!
+Warning: com.android.internal.telephony.gsm.GSMPhone$1 is a phantom class!
+Warning: java.lang.StringIndexOutOfBoundsException is a phantom class!
+Warning: java.text.ParseException is a phantom class!
+Warning: java.util.Queue is a phantom class!
+Warning: java.text.BreakIterator is a phantom class!
+Warning: java.text.SimpleDateFormat is a phantom class!
+Warning: java.util.concurrent.atomic.AtomicReference is a phantom class!
+Warning: java.util.concurrent.ConcurrentHashMap is a phantom class!
+Warning: libcore.icu.TimeZones is a phantom class!
+Warning: javax.sip.address.AddressFactory is a phantom class!
+Warning: javax.sip.address.URI is a phantom class!
+Warning: javax.sip.SipFactory is a phantom class!
+Warning: javax.sip.address.Address is a phantom class!
+Warning: javax.sip.InvalidArgumentException is a phantom class!
+Warning: javax.sip.address.SipURI is a phantom class!
+Warning: javax.sip.PeerUnavailableException is a phantom class!
+Warning: java.io.ObjectStreamException is a phantom class!
+Warning: javax.sip.SipException is a phantom class!
+Warning: java.util.NoSuchElementException is a phantom class!
+Warning: java.nio.charset.Charsets is a phantom class!
+Warning: java.util.Vector is a phantom class!
+Warning: java.net.URLDecoder is a phantom class!
+Warning: java.io.ObjectInput is a phantom class!
+Warning: java.security.cert.X509Certificate is a phantom class!
+Warning: libcore.net.MimeUtils is a phantom class!
+Warning: org.apache.harmony.security.provider.cert.X509CertImpl is a phantom class!
+Warning: java.net.MalformedURLException is a phantom class!
+Warning: junit.framework.Assert is a phantom class!
+Warning: java.lang.UnsatisfiedLinkError is a phantom class!
+Warning: java.io.Externalizable is a phantom class!
+Warning: java.io.ObjectOutput is a phantom class!
+Warning: java.io.FilenameFilter is a phantom class!
+Warning: java.security.KeyPairGenerator is a phantom class!
+Warning: java.security.KeyPair is a phantom class!
+Warning: com.android.org.bouncycastle.util.encoders.Base64 is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.ASN1ObjectIdentifier is a phantom class!
+Warning: com.android.org.bouncycastle.jce.netscape.NetscapeCertRequest is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.DERObjectIdentifier is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.pkcs.PKCSObjectIdentifiers is a phantom class!
+Warning: java.security.PrivateKey is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.DERObject is a phantom class!
+Warning: com.android.org.bouncycastle.asn1.x509.AlgorithmIdentifier is a phantom class!
+Warning: org.json.JSONException is a phantom class!
+Warning: org.json.JSONObject is a phantom class!
+Warning: org.json.JSONStringer is a phantom class!
+Warning: org.json.JSONArray is a phantom class!
+Warning: org.apache.harmony.xnet.provider.jsse.NativeCrypto is a phantom class!
+Warning: java.util.SortedSet is a phantom class!
+Warning: java.util.TreeSet is a phantom class!
+Warning: java.io.CharArrayWriter is a phantom class!
+Warning: java.lang.Character$UnicodeBlock is a phantom class!
+Warning: com.android.org.bouncycastle.openssl.PEMWriter is a phantom class!
+Warning: com.android.org.bouncycastle.openssl.PEMReader is a phantom class!
+Warning: java.lang.ref.ReferenceQueue is a phantom class!
+Warning: java.util.ListIterator is a phantom class!
+Warning: java.lang.ref.Reference is a phantom class!
+Warning: libcore.io.Base64 is a phantom class!
+Warning: java.util.Timer is a phantom class!
+Warning: java.util.TimerTask is a phantom class!
+Warning: java.net.ProtocolException is a phantom class!
+Warning: java.security.Principal is a phantom class!
+Warning: javax.security.auth.x500.X500Principal is a phantom class!
+Warning: org.apache.harmony.xnet.provider.jsse.TrustedCertificateStore is a phantom class!
+Warning: libcore.util.Objects is a phantom class!
+Warning: java.nio.FloatBuffer is a phantom class!
+Warning: javax.net.ssl.SSLSession is a phantom class!
+Warning: java.io.InterruptedIOException is a phantom class!
+Warning: android.annotation.TargetApi is a phantom class!
+Warning: android.app.ActivityOptions is a phantom class!
+Warning: android.app.AppOpsManager is a phantom class!
+Warning: android.app.Notification$Action$Builder is a phantom class!
+Warning: android.app.Notification$Action is a phantom class!
+Warning: android.app.Notification$BigPictureStyle is a phantom class!
+Warning: android.app.Notification$BigTextStyle is a phantom class!
+Warning: java.text.NumberFormat is a phantom class!
+Warning: android.app.Notification$InboxStyle is a phantom class!
+Warning: android.app.Notification$MediaStyle is a phantom class!
+Warning: android.app.RemoteInput$Builder is a phantom class!
+Warning: android.app.RemoteInput is a phantom class!
+Warning: android.app.SharedElementCallback is a phantom class!
+Warning: android.graphics.Outline is a phantom class!
+Warning: android.graphics.pdf.PdfDocument$Page is a phantom class!
+Warning: android.graphics.pdf.PdfDocument$PageInfo is a phantom class!
+Warning: android.hardware.display.DisplayManager is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$AuthenticationCallback is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$AuthenticationResult is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager$CryptoObject is a phantom class!
+Warning: android.hardware.fingerprint.FingerprintManager is a phantom class!
+Warning: android.media.AudioAttributes$Builder is a phantom class!
+Warning: android.media.AudioAttributes is a phantom class!
+Warning: android.media.MediaDescription$Builder is a phantom class!
+Warning: android.media.MediaDescription is a phantom class!
+Warning: android.media.MediaMetadata$Builder is a phantom class!
+Warning: android.media.MediaMetadata is a phantom class!
+Warning: android.media.MediaMetadataEditor is a phantom class!
+Warning: android.media.MediaRouter$Callback is a phantom class!
+Warning: android.media.MediaRouter$RouteCategory is a phantom class!
+Warning: android.media.MediaRouter$RouteGroup is a phantom class!
+Warning: android.media.MediaRouter$RouteInfo is a phantom class!
+Warning: android.media.MediaRouter$UserRouteInfo is a phantom class!
+Warning: android.media.MediaRouter$VolumeCallback is a phantom class!
+Warning: android.media.MediaRouter is a phantom class!
+Warning: android.media.Rating is a phantom class!
+Warning: android.media.RemoteControlClient$OnGetPlaybackPositionListener is a phantom class!
+Warning: android.media.RemoteControlClient$OnMetadataUpdateListener is a phantom class!
+Warning: android.media.RemoteControlClient$OnPlaybackPositionUpdateListener is a phantom class!
+Warning: android.media.VolumeProvider is a phantom class!
+Warning: android.media.session.MediaController$Callback is a phantom class!
+Warning: android.media.session.MediaController$PlaybackInfo is a phantom class!
+Warning: android.media.session.MediaController$TransportControls is a phantom class!
+Warning: android.media.session.MediaController is a phantom class!
+Warning: android.media.session.MediaSession$Callback is a phantom class!
+Warning: android.media.session.MediaSession$QueueItem is a phantom class!
+Warning: android.media.session.MediaSession$Token is a phantom class!
+Warning: android.media.session.MediaSession is a phantom class!
+Warning: android.media.session.PlaybackState$Builder is a phantom class!
+Warning: android.media.session.PlaybackState$CustomAction$Builder is a phantom class!
+Warning: android.media.session.PlaybackState$CustomAction is a phantom class!
+Warning: android.media.session.PlaybackState is a phantom class!
+Warning: javax.net.ssl.SSLSocket is a phantom class!
+Warning: javax.net.ssl.SSLPeerUnverifiedException is a phantom class!
+Warning: javax.security.cert.X509Certificate is a phantom class!
+Warning: javax.net.ssl.SSLSessionContext is a phantom class!
+Warning: android.os.CancellationSignal$OnCancelListener is a phantom class!
+Warning: android.os.CancellationSignal is a phantom class!
+Warning: android.os.OperationCanceledException is a phantom class!
+Warning: android.os.Trace is a phantom class!
+Warning: android.print.PageRange is a phantom class!
+Warning: android.print.PrintAttributes$Builder is a phantom class!
+Warning: android.print.PrintAttributes$MediaSize is a phantom class!
+Warning: android.print.PrintAttributes is a phantom class!
+Warning: android.print.PrintDocumentAdapter$LayoutResultCallback is a phantom class!
+Warning: android.print.PrintDocumentAdapter$WriteResultCallback is a phantom class!
+Warning: android.print.PrintDocumentAdapter is a phantom class!
+Warning: android.print.PrintDocumentInfo$Builder is a phantom class!
+Warning: android.print.PrintDocumentInfo is a phantom class!
+Warning: android.print.PrintJob is a phantom class!
+Warning: android.print.PrintManager is a phantom class!
+Warning: android.print.pdf.PrintedPdfDocument is a phantom class!
+Warning: android.provider.DocumentsContract is a phantom class!
+Warning: java.io.FileFilter is a phantom class!
+Warning: java.util.zip.ZipFile is a phantom class!
+Warning: java.io.RandomAccessFile is a phantom class!
+Warning: java.util.zip.ZipException is a phantom class!
+Warning: android.transition.Transition is a phantom class!
+Warning: android.transition.Transition$EpicenterCallback is a phantom class!
+Warning: javax.crypto.Cipher is a phantom class!
+Warning: javax.crypto.Mac is a phantom class!
+Warning: java.security.Signature is a phantom class!
+Warning: android.view.ViewTreeObserver$OnWindowAttachListener is a phantom class!
+Warning: android.view.ViewTreeObserver$OnWindowFocusChangeListener is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeProvider is a phantom class!
+Warning: android.view.View$OnApplyWindowInsetsListener is a phantom class!
+Warning: android.view.WindowInsets is a phantom class!
+Warning: android.view.SearchEvent is a phantom class!
+Warning: android.view.ActionProvider$VisibilityListener is a phantom class!
+Warning: org.xml.sax.SAXNotSupportedException is a phantom class!
+Warning: org.xml.sax.SAXNotRecognizedException is a phantom class!
+Warning: org.ccil.cowan.tagsoup.HTMLSchema is a phantom class!
+Warning: org.ccil.cowan.tagsoup.Parser is a phantom class!
+Warning: org.xml.sax.Locator is a phantom class!
+Warning: org.xml.sax.Attributes is a phantom class!
+Warning: android.transition.TransitionManager is a phantom class!
+Warning: android.transition.TransitionSet is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$AccessibilityAction is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$CollectionInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$CollectionItemInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityNodeInfo$RangeInfo is a phantom class!
+Warning: android.view.accessibility.AccessibilityWindowInfo is a phantom class!
+Warning: android.view.animation.PathInterpolator is a phantom class!
+Warning: java.math.BigDecimal is a phantom class!
+Warning: android.widget.ThemedSpinnerAdapter is a phantom class!
+Warning: dalvik.system.DexFile is a phantom class!
+Warning: java.lang.ExceptionInInitializerError is a phantom class!
+Warning: java.lang.LinkageError is a phantom class!
+Warning: java.lang.annotation.Documented is a phantom class!
+Warning: java.lang.annotation.ElementType is a phantom class!
+Warning: java.lang.annotation.RetentionPolicy is a phantom class!
+Warning: java.net.ConnectException is a phantom class!
+Warning: java.util.Hashtable is a phantom class!
+Warning: java.util.Properties is a phantom class!
+Warning: java.util.Scanner is a phantom class!
+Warning: java.util.concurrent.locks.Condition is a phantom class!
+Warning: java.util.concurrent.locks.Lock is a phantom class!
+Warning: java.util.zip.ZipOutputStream is a phantom class!
+Warning: java.lang.NoClassDefFoundError is a phantom class!
+Warning: java.lang.StackOverflowError is a phantom class!
+Warning: java.lang.invoke.LambdaMetafactory is a phantom class!
+Warning: java.lang.VerifyError is a phantom class!
+Warning: java.lang.IllegalMonitorStateException is a phantom class!
+Warning: java.lang.UnknownError is a phantom class!
+Warning: java.lang.InternalError is a phantom class!
+Warning: java.lang.ArithmeticException is a phantom class!
+Warning: java.lang.NegativeArraySizeException is a phantom class!
+Warning: java.lang.ClassCircularityError is a phantom class!
+Warning: java.lang.ref.Finalizer is a phantom class!
+Warning: java.lang.ThreadDeath is a phantom class!
+Warning: java.lang.InstantiationError is a phantom class!
+Warning: java.lang.IllegalAccessError is a phantom class!
+Warning: java.lang.ClassFormatError is a phantom class!
+[main] INFO soot.jimple.infoflow.Infoflow - Basic class loading done.
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.view.MenuItem, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.view.Menu, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.widget.AdapterView, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for android.content.Context, because it is abstract and cannot substitute with subclass
+[main] INFO soot.jimple.infoflow.entryPointCreators.AndroidEntryPointCreator - Generated main method:
+    public static void dummyMainMethod(java.lang.String[])
+    {
+        java.lang.String[] $r0;
+        int $i0;
+        com.example.hussienalrubaye.webview.ServiceNotification $r1;
+        android.content.Intent $r2, $r3, $r17;
+        com.example.hussienalrubaye.webview.SubResources $r4;
+        android.os.Bundle $r5, $r7, $r11, $r15;
+        boolean $z0, $z1, $z2, $z3, $z4, $z5, $z6, $z7, $z8, $z9, $z10;
+        com.example.hussienalrubaye.webview.MainActivity $r6;
+        android.view.KeyEvent $r8;
+        com.example.hussienalrubaye.webview.MainActivity$1 $r9;
+        com.example.hussienalrubaye.webview.ResourcesName $r10;
+        com.example.hussienalrubaye.webview.ResourcesName$1 $r12;
+        android.view.View $r13;
+        com.example.hussienalrubaye.webview.welcomeActivity $r14;
+        com.example.hussienalrubaye.webview.MyBroadcastReceiver $r16;
+
+        $r0 := @parameter0: java.lang.String[];
+
+        $i0 = 0;
+
+     label01:
+        if $i0 == 0 goto label08;
+
+        $r1 = new com.example.hussienalrubaye.webview.ServiceNotification;
+
+        specialinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void <init>()>();
+
+     label02:
+        if $i0 == 1 goto label03;
+
+        if $i0 == 2 goto label02;
+
+     label03:
+        if $i0 == 3 goto label06;
+
+     label04:
+        if $i0 == 4 goto label05;
+
+        $r2 = new android.content.Intent;
+
+        specialinvoke $r2.<android.content.Intent: void <init>()>();
+
+        virtualinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void onHandleIntent(android.content.Intent)>($r2);
+
+        $r2 = null;
+
+     label05:
+        if $i0 == 5 goto label04;
+
+     label06:
+        if $i0 == 6 goto label07;
+
+        $r3 = new android.content.Intent;
+
+        specialinvoke $r3.<android.content.Intent: void <init>()>();
+
+        virtualinvoke $r1.<com.example.hussienalrubaye.webview.ServiceNotification: void onHandleIntent(android.content.Intent)>($r3);
+
+        $r3 = null;
+
+     label07:
+        if $i0 == 7 goto label06;
+
+        if $i0 == 8 goto label08;
+
+        if $i0 == 9 goto label06;
+
+     label08:
+        if $i0 == 10 goto label14;
+
+        $r4 = new com.example.hussienalrubaye.webview.SubResources;
+
+        specialinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: void <init>()>();
+
+        if $i0 == 11 goto label14;
+
+        $r5 = new android.os.Bundle;
+
+        specialinvoke $r5.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: void onCreate(android.os.Bundle)>($r5);
+
+        $r5 = null;
+
+     label09:
+        if $i0 == 12 goto label13;
+
+     label10:
+        if $i0 == 13 goto label11;
+
+        $z0 = virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label11:
+        if $i0 == 14 goto label12;
+
+        $z1 = virtualinvoke $r4.<com.example.hussienalrubaye.webview.SubResources: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label12:
+        if $i0 == 15 goto label10;
+
+     label13:
+        if $i0 == 16 goto label09;
+
+        if $i0 == 17 goto label14;
+
+        if $i0 == 18 goto label09;
+
+     label14:
+        if $i0 == 20 goto label23;
+
+        $r6 = new com.example.hussienalrubaye.webview.MainActivity;
+
+        specialinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void <init>()>();
+
+        if $i0 == 21 goto label23;
+
+        $r7 = new android.os.Bundle;
+
+        specialinvoke $r7.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onCreate(android.os.Bundle)>($r7);
+
+        $r7 = null;
+
+     label15:
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onResume()>();
+
+        if $i0 == 22 goto label22;
+
+     label16:
+        if $i0 == 23 goto label17;
+
+        $r8 = new android.view.KeyEvent;
+
+        specialinvoke $r8.<android.view.KeyEvent: void <init>(int,int)>(0, 0);
+
+        $z2 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onKeyDown(int,android.view.KeyEvent)>(0, $r8);
+
+        $r8 = null;
+
+     label17:
+        if $i0 == 24 goto label18;
+
+        $z3 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label18:
+        if $i0 == 25 goto label19;
+
+        $z4 = virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label19:
+        $r9 = new com.example.hussienalrubaye.webview.MainActivity$1;
+
+        specialinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: void <init>(com.example.hussienalrubaye.webview.MainActivity)>($r6);
+
+        if $i0 == 26 goto label20;
+
+        $z5 = virtualinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: boolean onQueryTextSubmit(java.lang.String)>("");
+
+     label20:
+        if $i0 == 27 goto label21;
+
+        $z6 = virtualinvoke $r9.<com.example.hussienalrubaye.webview.MainActivity$1: boolean onQueryTextChange(java.lang.String)>("");
+
+     label21:
+        if $i0 == 28 goto label16;
+
+     label22:
+        virtualinvoke $r6.<com.example.hussienalrubaye.webview.MainActivity: void onPause()>();
+
+        if $i0 == 29 goto label15;
+
+        if $i0 == 30 goto label23;
+
+        if $i0 == 31 goto label15;
+
+     label23:
+        if $i0 == 33 goto label30;
+
+        $r10 = new com.example.hussienalrubaye.webview.ResourcesName;
+
+        specialinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: void <init>()>();
+
+        if $i0 == 34 goto label30;
+
+        $r11 = new android.os.Bundle;
+
+        specialinvoke $r11.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: void onCreate(android.os.Bundle)>($r11);
+
+        $r11 = null;
+
+     label24:
+        if $i0 == 35 goto label29;
+
+     label25:
+        if $i0 == 36 goto label26;
+
+        $z7 = virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label26:
+        if $i0 == 37 goto label27;
+
+        $z8 = virtualinvoke $r10.<com.example.hussienalrubaye.webview.ResourcesName: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label27:
+        $r12 = new com.example.hussienalrubaye.webview.ResourcesName$1;
+
+        specialinvoke $r12.<com.example.hussienalrubaye.webview.ResourcesName$1: void <init>(com.example.hussienalrubaye.webview.ResourcesName)>($r10);
+
+        if $i0 == 38 goto label28;
+
+        $r13 = new android.view.View;
+
+        specialinvoke $r13.<android.view.View: void <init>(android.content.Context)>($r10);
+
+        virtualinvoke $r12.<com.example.hussienalrubaye.webview.ResourcesName$1: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>(null, $r13, 0, 0L);
+
+        $r13 = null;
+
+     label28:
+        if $i0 == 39 goto label25;
+
+     label29:
+        if $i0 == 40 goto label24;
+
+        if $i0 == 41 goto label30;
+
+        if $i0 == 42 goto label24;
+
+     label30:
+        if $i0 == 44 goto label36;
+
+        $r14 = new com.example.hussienalrubaye.webview.welcomeActivity;
+
+        specialinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: void <init>()>();
+
+        if $i0 == 45 goto label36;
+
+        $r15 = new android.os.Bundle;
+
+        specialinvoke $r15.<android.os.Bundle: void <init>()>();
+
+        virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: void onCreate(android.os.Bundle)>($r15);
+
+        $r15 = null;
+
+     label31:
+        if $i0 == 46 goto label35;
+
+     label32:
+        if $i0 == 47 goto label33;
+
+        $z9 = virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: boolean onOptionsItemSelected(android.view.MenuItem)>(null);
+
+     label33:
+        if $i0 == 48 goto label34;
+
+        $z10 = virtualinvoke $r14.<com.example.hussienalrubaye.webview.welcomeActivity: boolean onCreateOptionsMenu(android.view.Menu)>(null);
+
+     label34:
+        if $i0 == 49 goto label32;
+
+     label35:
+        if $i0 == 50 goto label31;
+
+        if $i0 == 51 goto label36;
+
+        if $i0 == 52 goto label31;
+
+     label36:
+        if $i0 == 56 goto label38;
+
+        $r16 = new com.example.hussienalrubaye.webview.MyBroadcastReceiver;
+
+        specialinvoke $r16.<com.example.hussienalrubaye.webview.MyBroadcastReceiver: void <init>()>();
+
+        if $i0 == 57 goto label38;
+
+        $r17 = new android.content.Intent;
+
+        specialinvoke $r17.<android.content.Intent: void <init>()>();
+
+     label37:
+        virtualinvoke $r16.<com.example.hussienalrubaye.webview.MyBroadcastReceiver: void onReceive(android.content.Context,android.content.Intent)>(null, $r17);
+
+        $r17 = null;
+
+        if $i0 == 59 goto label37;
+
+     label38:
+        if $i0 == 60 goto label01;
+
+        return;
+    }
+
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.0 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+[Spark] Propagation in 5.2 seconds.
+[Spark] Solution found in 5.2 seconds.
+[main] INFO soot.jimple.infoflow.codeOptimization.InterproceduralConstantValuePropagator - Removing side-effect free methods is disabled
+[main] INFO soot.jimple.infoflow.Infoflow - Dead code elimination took 0.176305364 seconds
+[main] INFO soot.jimple.infoflow.Infoflow - Callgraph has 7202 edges
+[main] INFO soot.jimple.infoflow.data.FlowDroidMemoryManager - Initializing FlowDroid memory manager...
+[main] INFO soot.jimple.infoflow.data.FlowDroidMemoryManager - FDMM: Path data erasure enabled
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Implicit flow tracking is NOT enabled
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Exceptional flow tracking is enabled
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Running with a maximum access path length of 5
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Using path-agnostic result collection
+[main] INFO soot.jimple.infoflow.android.InfoflowAndroidConfiguration - Recursive access path shortening is enabled
+[main] INFO soot.jimple.infoflow.Infoflow - Looking for sources and sinks...
+[main] INFO soot.jimple.infoflow.Infoflow - Source lookup done, found 30 sources and 10 sinks.
